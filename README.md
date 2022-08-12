@@ -2,31 +2,28 @@
 
 ## Topic and aims
 
-Place the topic of your workshop here, for example: LimeSurvey, Digital Dexterity, Copyright for researchers, etc.
+An introduction to computational thinking
 
-Once you have completed this workshop you should be able to:
+Once you have completed this workshop, you should be able to:
 
-- Explain the difference between copyright and academic integrity
-- Identify the most common sources of GLAM archival text
-- Verb a noun with the following limiting words
+- Identify the steps involved in computational thinking
+- Break a problem down into more manageable pieces
+- Develop an algorithm to solve the problem
+- Use abstraction to make the algoritm re-usable
 
 ## Audience
 
-This workshop is aimed at researchers and academics in the field of biostatistics.
+This workshop is aimed at researchers at all stages who want to understandthe building blocks of computational thinking.
 
 ## Prerequisites
 
 To successfully coplete this workshop you will need: 
 
-- A modern browser
-- An installation of [OpenRefine](https://openrefine.org)
+- A pen and paper
 
 ## Assumed knowledge
 
-It is assumed that you have the following level of understanding:
-
-- Ability to install software on your own device
-- Foundational data terminology such as tabular data, binary data, csv, tables, fields etc.
+No prior knowledge is assumed. 
 
 {% endcapture %}
 
