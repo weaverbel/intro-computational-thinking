@@ -22,7 +22,8 @@ There are four essential components of computational thinking:
 - **Algorithms** – developing a step-by-step solution to the problem
 - **Abstraction** – abstracting the important detail that can make a solution reusable
 
-![Diagram of computational thinking](/images/comp-diagram.png "The four components")
+{% include figure.html img="/images/comp-diagram.png" alt="The four components" width="75%" %}
+
 
 -------------
 
