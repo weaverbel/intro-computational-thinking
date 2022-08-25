@@ -3,29 +3,34 @@ title: Home
 layout: default
 ---
 
-# Griffith Library Workshop Template
+# An Introduction to Computational Thinking
 
 {% include figure.html img="university-drive.jpg" alt="Students on University Drive, Gold Coast Campus" caption="University Drive" width="75%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+### Topic and aims
 
-> Customised from Evan Williamsons's original Workshop-Template-B to include Griffith Library author and analytics info. This version reflects the November 2021 version of the template that uses Bootstrap 5 and has some new features, as well as the use of Bootstrap icons instead of FontAwesome.
+Once you have completed this workshop on computational thinking, you should be able to:
 
-*Add your workshop abstract here!*
+- Identify the steps involved in computational thinking
+- Break a problem down into more manageable pieces
+- Develop an algorithm to solve the problem
+- Use abstraction to make the algoritm re-usable
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+### Audience
+
+This workshop is aimed at researchers at all career stages who want to understand both the uses and the building blocks of computational thinking.
+
+### Prerequisites
+
+To successfully complete this workshop, you will need:
+
+A pen and paper.
+
+### Assumed knowledge
+
+No prior knowledge is assumed.
 
 {% capture whatsdifferent %}
-This template has been 'Griffithised' in the following ways: 
-
- - Library Google Analytics ID added
- - Publication year updated
- - Content author set as Griffith Uni Library
- - Griffith campus feature photo added
- - Griffith favicon added
- - Thin top bar coloured with 'Griffith Red' (#e30918)
 
 {% include alert.html text="That's fantastic!" color="info" %}
 
