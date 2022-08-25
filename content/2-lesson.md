@@ -8,19 +8,21 @@ While thinking computationally is a prerequisite for programming, programming an
 
 Programming instructs a computer to carry out a sequence of steps in a certain order. Computational thinking is the process that helps you arrive at what those steps should be, i.e. working out what you plan to tell the computer to do.
 
-Subconsciously, we practise computational thinking every day of our lives. 
+Subconsciously, we practise computational thinking every day of our lives. As the BBC definition stated: 
 
-For example, if you agree to meet your friends somewhere you have never been before, you would probably plan your route before you step out of your house. You might consider the routes available and which route is ‘best’ - this might be the route that is the shortest, the quickest, or the one which goes past your favourite shop on the way. You'd then follow the step-by-step directions to get there. In this case, the planning part is like computational thinking, and following the directions is like programming.
+*"Computational thinking ... allows us to take a complex problem, understand what the problem is and develop possible solutions in a way that **a computer, a human, or both, can understand**."*
 
-Being able to turn a complex problem into one we can easily understand is a skill that is extremely useful. In fact, it's a skill you already have and probably use every day.
+Every time, we need to plan to do something, we use some of the steps of computational thinking such as problem breakdown, pattern matching and developing algorithms. 
 
-For example, it might be that you need to decide what to do with your group of friends. If all of you like different things, you would need to decide:
+Suppose we have to arrange a meeting in city A. Some of the meeting attendees will need to travel to get there, and then transfer to the meeting venue from whatever form of transport they have used for their travel. In order to arrange the successful transport of all attendees, the problem must first be broken down:
 
-what you could do
-where you could go
-who wants to do what
-what you have previously done that has been a success in the past
-how much money you have and the cost of any of the options
-what the weather might be doing
-how much time you have
-From this information, you and your friends could decide more easily where to go and what to do – in order to keep most of your friends happy. You could also use a computer to help you to collect and analyse the data to devise the best solution to the problem, both now and if it arose again in the future, if you wished.
+- Who is attending?
+- What forms of transport will they use to get to city A?
+- What are the transport links to the venue from the airport, railway terminus or bus station?
+- How much time needs to be factored in for transit?
+- Does cost need to be considered?
+- Do any of the attendees require disbility support?
+
+In this case, the planning part uses computational thinking to break the problem down. Pattern matching is involved - people have travelled before, and use that knowledge to devise solutions. All of the steps chosen to solve the problem, i.e. to get the different attendees to the meeting, are the programming algorithm that has been created to solve the problem after breaking it down. 
+
+Should another meeting be needed in the future, with different attendees, the process above could be abstracted and re-used to solve the issue. 
