@@ -33,7 +33,7 @@ If we are adding all the numbers between 1 and 200, we will end up with 100 pair
 
 -------
 
-### ALgorithm
+### Algorithm
 
 Using an *Algorithm* - a step - how do we calculate the final total?
 
@@ -58,6 +58,10 @@ The *Algorithm* will be
 where *x* is the `number to be added.`
 
 -------------
+
+That's it! Using those four key steps, you have covered the basics of computational thinking.
+
+---------
 
 #### Practice
 
