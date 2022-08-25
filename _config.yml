@@ -10,12 +10,12 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: An Introduction to Computational Thinking
+title: Introduction to Computational Thinking
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: tools
+title-icon: 
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 description: "A workshop developed by staff at Griffith University Library"
