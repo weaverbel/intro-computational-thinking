@@ -1,7 +1,7 @@
 ---
 title: Introduction
 nav: Intro
-topics: computational thinking; problem solving
+topics: definitions
 ---
 
 ## Introduction
@@ -14,9 +14,9 @@ Jeannette Wing, of Columbia University, brought the idea of computational thinki
 
 [BBC Bitesize](https://www.bbc.com/bitesize/guides/zp92mp3/revision/1) provides a good definition:
 
->"Computers can be used to help us solve problems. However, before a problem can be tackled, the problem itself and the ways in which it could be solved need to be understood. Computational thinking allows us to do this ... (it) allows us to take a complex problem, understand what the problem is and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand."
+> *"Computers can be used to help us solve problems. However, before a problem can be tackled, the problem itself and the ways in which it could be solved need to be understood. Computational thinking allows us to do this ... (it) allows us to take a complex problem, understand what the problem is and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand."*
 
-There are four essential parts of computational thinking:
+There are four essential components of computational thinking:
 
 - **Decomposition** – breaking a problem down into more manageable parts so that a solution can be found for each
 - **Pattern recognition** – looking for similarities with other problems 
@@ -25,6 +25,6 @@ There are four essential parts of computational thinking:
 
 -------------
 
-### References
+#### References
 
 (2006) Wing, Jeannette M. "Computational Thinking", *Communications of the ACM*, March 2006, Vol. 49 No. 3, Pages 33-35. DOI: [10.1145/1118178.1118215](https://dx.doi.org/10.1145/1118178.1118215).
