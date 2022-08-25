@@ -7,7 +7,7 @@ In this exercise, we will see how computational thinking can help us add up all 
 
 Using the first step - *Decomposition* - we break the problem up into smaller pieces.
 
-*Decomposition*
+### Decomposition
 
 We begin by adding the first and last numbers.
 
@@ -25,11 +25,15 @@ The answer is **201**.
 
 -------
 
+### Pattern Matching
+
 Using our second step - *Pattern Matching* - we may now be able to spot a pattern, i.e. that each pair of numbers will add up to **201**.
 
 If we are adding all the numbers between 1 and 200, we will end up with 100 pairs, all of which add up to **201**.
 
 -------
+
+### ALgorithm
 
 Using an *Algorithm* - a step - how do we calculate the final total?
 
@@ -37,9 +41,11 @@ We multiply 100 (the number of pairs) by the total to which each pair adds up (*
 
 100 * 201 -> gives us an answer of **20,100**.
 
+But what about about our fourth step, *Abstraction*? 
+
 -------
 
-But what about about our fourth step, *Abstraction*. 
+### Abstraction 
 
 *Abstraction* will enable us to repeat the process we used to add 1-200 to add up a different set of numbers, e.g., 1-500.
 
