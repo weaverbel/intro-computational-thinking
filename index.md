@@ -30,12 +30,6 @@ A pen and paper.
 
 No prior knowledge is assumed.
 
-{% capture whatsdifferent %}
-
-{% include alert.html text="That's fantastic!" color="info" %}
-
-{% endcapture %}
-{% include card.html header="What's been changed?" text=whatsdifferent %}
 
 {% include toc.html %}
 
