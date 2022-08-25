@@ -13,11 +13,11 @@ Once you have completed this workshop, you should be able to:
 
 ## Audience
 
-This workshop is aimed at researchers at all stages who want to understandthe building blocks of computational thinking.
+This workshop is aimed at researchers at all stages who want to understand the building blocks of computational thinking.
 
 ## Prerequisites
 
-To successfully coplete this workshop you will need: 
+To successfully complete this workshop you will need: 
 
 - A pen and paper
 
