@@ -3,11 +3,9 @@ title: Exercise 1
 nav: Exercise
 ---
 
-Some people are very good at adding numbers up in their heads while others struggle.  
+In this exercise, we will see how computational thinking can help us add up all the numbers between 1 and 200 within a minute.
 
-In this exercise, we will examine how to add up all the numbers between 1 and 200 within a minute.
-
-Computational thinking can help. Using the first step - *Decomposition* - we can break the problem up into smaller pieces.
+Using the first step - *Decomposition* - we break the problem up into smaller pieces.
 
 *Decomposition*
 
@@ -37,7 +35,7 @@ Using an *Algorithm* - a step - how do we calculate the final total?
 
 We multiply 100 (the number of pairs) by the total to which each pair adds up (**201**).
 
-100 * 201 -> gives us an answer of **20,1000**.
+100 * 201 -> gives us an answer of **20,100**.
 
 -------
 
