@@ -13,7 +13,7 @@ The BBC provides a good definition:
 
 *"Computers can be used to help us solve problems. However, before a problem can be tackled, the problem itself and the ways in which it could be solved need to be understood. Computational thinking allows us to do this ... (it) allows us to take a complex problem, understand what the problem is and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand."*
 
-{% include figure.html img="comp-diagram.png" alt="The four components" caption="Introduction to computational thinking" width="75%" %}
+{% include figure.html img="ct-diagram.png" alt="The four components" caption="The four components of computational thinking" width="75%" %}
 
 There are four essential components of computational thinking:
 
