@@ -5,7 +5,7 @@ layout: default
 
 # An Introduction to Computational Thinking
 
-{% include figure.html img="stickies.jpb" alt="Sticky notes on a wall" width="75%" %}
+{% include figure.html img="stickies.jpg" alt="Sticky notes on a wall" caption="Photo by Alex Lion on Unsplash" width="75%" %}
 
 ### Topic and aims
 
