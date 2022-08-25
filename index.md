@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# An Introduction to Computational Thinking
+# Introduction to Computational Thinking
 
 {% include figure.html img="stickies.jpg" alt="Sticky notes on a wall" caption="Photo by Alex Lion on Unsplash" width="75%" %}
 
@@ -22,9 +22,7 @@ This workshop is aimed at researchers at all career stages who want to understan
 
 ### Prerequisites
 
-To successfully complete this workshop, you will need:
-
-A pen and paper.
+None.
 
 ### Assumed knowledge
 
