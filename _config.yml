@@ -10,7 +10,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Griffith Library Workshop
+title: An Introduction to Computational Thinking
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
@@ -18,8 +18,8 @@ title: Griffith Library Workshop
 title-icon: tools
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
-description: "A workshop companion site presented by Griffith University Library"
-keywords: "workshops, Griffith, research, library"
+description: "A workshop developed by staff at Griffith University Library"
+keywords: "computational thinking, Griffith, algorithms, problem solving"
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
 featured-image: "/images/university-drive.jpg"
@@ -33,7 +33,7 @@ github_username: GriffithUniLibrary
 # year or date published
 pub_year: 2022
 # location of code, the full url to your github repository
-source-code: https://github.com/GULibrarySandbox/library-template-2022
+source-code: https://github.com/GULibrarySandbox/intro-computational-thinking
 
 ##########
 # URL VARIABLES [optional!]
@@ -42,11 +42,11 @@ source-code: https://github.com/GULibrarySandbox/library-template-2022
 #
 # use url for the domain, e.g. https://evanwill.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url:
+url: https://GULibrarySandbox.github.io
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl:
+baseurl: /intro-computational-thinking
 
 
 ##########
