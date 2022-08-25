@@ -5,7 +5,7 @@ layout: default
 
 # An Introduction to Computational Thinking
 
-{% include figure.html img="university-drive.jpg" alt="Students on University Drive, Gold Coast Campus" caption="University Drive" width="75%" %}
+{% include figure.html img="stickies.jpb" alt="Sticky notes on a wall" width="75%" %}
 
 ### Topic and aims
 
