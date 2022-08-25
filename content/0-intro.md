@@ -3,8 +3,6 @@ title: Introduction
 nav: Intro
 ---
 
-## Introduction
-
 Computational thinking is an essential prerequisite for anyone wanting to learn to write computer code.
 
 While there is no one agreed-upon definition of computational thinking, it can be described as a set of strategies to enable people to solve complex problems.
@@ -24,10 +22,12 @@ There are four essential components of computational thinking:
 - **Algorithms** – developing a step-by-step solution to the problem
 - **Abstraction** – abstracting the important detail that can make a solution reusable
 
+In the following exercise, we will see each step at work.
+
 -------------
 
 #### References
 
 1. (2006) Wing, Jeannette M. "Computational Thinking", *Communications of the ACM*, March 2006, Vol. 49 No. 3, Pages 33-35. DOI: [10.1145/1118178.1118215](https://dx.doi.org/10.1145/1118178.1118215).
 
-2. [BBC Bitesize](https://www.bbc.com/bitesize/guides/zp92mp3/revision/1): Introduction to computational thinking.
+2. [BBC](https://www.bbc.com/) Bitesize. [KS3: Introduction to computational thinking](https://www.bbc.com/bitesize/guides/zp92mp3/revision/1).
