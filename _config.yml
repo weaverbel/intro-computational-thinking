@@ -29,7 +29,7 @@ search: true
 # author settings for cc-by, appears in the footer and credits
 author: Griffith University Library
 # your github username for link [optional]
-github_username: GriffithUniLibrary
+github_username: weaverbel
 # year or date published
 pub_year: 2022
 # location of code, the full url to your github repository
@@ -42,7 +42,7 @@ source-code: https://github.com/GULibrarySandbox/intro-computational-thinking
 #
 # use url for the domain, e.g. https://evanwill.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url: https://GULibrarySandbox.github.io
+url: https://gulibrarysandbox.github.io
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
