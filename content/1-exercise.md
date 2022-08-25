@@ -49,7 +49,7 @@ The *Algorithm* will be
 
 (`number to be added` divided by 2) multiplied by (`number to be added` +1). We can express that as an algebraic formula:
 
-`(*x*/2) * (*x* + 1)`
+`(x/2) * (x + 1)`
 
 where *x* is the `number to be added.`
 
