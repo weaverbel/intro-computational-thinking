@@ -26,6 +26,13 @@ Suppose we have to arrange a face to face meeting in city A. Some of the meeting
 
 {% include figure.html img="tr-options.png" alt="Breaking down a problem" caption="Breaking down the problem" width="60%" %}
 
-In this case, the planning part uses computational thinking to break the problem down. Pattern matching is involved - people have travelled before, and use that knowledge to devise solutions. All of the steps chosen to solve the problem, i.e. the means of getting the different attendees to the meeting, are the programming algorithm that has been created to solve the problem after it has been broken down. 
+It is helpful to break the problem down into its constituent parts - using sticky notes on a wall, or creating a chart on a whiteboard can help with this. 
+In this case, the planning part uses computational thinking to break the problem down. Pattern matching is involved - people know where to find travel information, and can use that knowledge to devise solutions. All of the steps chosen to solve the problem, i.e. the means of getting the different attendees to the meeting, are the programming algorithm that has been created to solve the problem after it has been broken down. 
 
 Should another meeting be needed in the future, with different attendees, the process above could be abstracted and re-used to solve the issue. 
+
+---------
+
+### Practice
+
+Imagine you have invited three friends to your house for a lunch. Draw a chart of all the things you would need to consider in your plan to make this happen.
