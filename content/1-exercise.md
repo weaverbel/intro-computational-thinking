@@ -39,7 +39,7 @@ Using an *Algorithm* - a step - how do we calculate the final total?
 
 We multiply 100 (the number of pairs) by the total to which each pair adds up (**201**).
 
-100 * 201 -> gives us an answer of **20,100**.
+100 * 201 gives us an answer of **20,100**.
 
 But what about about our fourth step, *Abstraction*? 
 
