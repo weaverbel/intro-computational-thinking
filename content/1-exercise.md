@@ -23,7 +23,7 @@ Then we add up the third and the third last numbers, i.e. 198 + 3. The answer is
 
 Using our second step - *Pattern Matching* - we can now spot a pattern, i.e. that each pair of numbers will add up to **201**.
 
-{% include figure.html img="pattern.png" alt="Spotting the pattern" caption="Spotting the pattern" width="25%" %}
+{% include figure.html img="pattern.png" alt="Spotting the pattern" width="25%" %}
 
 If we are adding up all the numbers between 1 and 200, we will end up with 100 pairs, all of which add up to **201**.
 
