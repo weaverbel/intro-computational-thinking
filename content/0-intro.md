@@ -5,9 +5,9 @@ nav: Intro
 
 Computational thinking is an essential prerequisite for anyone wanting to learn to write computer code.
 
-While there is no one agreed-upon definition of computational thinking, it can be described as a set of strategies to enable people to solve complex problems.
+There are many different definitions of computational thinking. However, it can be described as a set of strategies to enable people to solve problems, especially complex ones.
 
-Jeannette Wing (1), of Columbia University, brought the idea of computational thinking to prominence in a 2006 paper. She says, *"Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or machine, or more generally, by combinations of humans and machines."*
+Professor Jeannette Wing (1) brought computational thinking to prominence in a 2006 paper. She says, *"Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or machine, or more generally, by combinations of humans and machines."*
 
 The BBC provides a good definition:
 
