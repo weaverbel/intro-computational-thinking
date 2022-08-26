@@ -11,23 +11,19 @@ Using the first step - *Decomposition* - we break the problem up into smaller pi
 
 We can begin at each end of the sequence by adding up the first (1) and last (200) numbers.
 
-What is 200 + 1?
+What is 200 + 1? The answer is **201**.
 
-The answer is **201**.
+Then we add up the second and the second last numbers, i.e. 199 + 2. The answer is **201**.
 
-Then we add up the second and the second last numbers, i.e. 199 + 2.
-
-The answer is **201**.
-
-Then we add up the third and the third last numbers, i.e. 198 + 3.
-
-The answer is **201**.
+Then we add up the third and the third last numbers, i.e. 198 + 3. The answer is **201**.
 
 -------
 
 ### Pattern Matching
 
 Using our second step - *Pattern Matching* - we can now spot a pattern, i.e. that each pair of numbers will add up to **201**.
+
+{% include figure.html img="pattern.png" alt="Spotting the pattern" caption="Spotting the pattern" width="75%" %}
 
 If we are adding up all the numbers between 1 and 200, we will end up with 100 pairs, all of which add up to **201**.
 
