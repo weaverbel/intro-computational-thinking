@@ -24,7 +24,7 @@ Suppose we have to arrange a face to face meeting in city A. Some of the meeting
 - Does the cost of different local transport options need to be considered?
 - Do any of the attendees require disability support?
 
-{% include figure.html img="tr-options.png" alt="Breaking down a problem" caption=" Breaking down the problem" width="60%" %}
+{% include figure.html img="tr-options.png" alt="Breaking down a problem" caption="Breaking down the problem" width="60%" %}
 
 In this case, the planning part uses computational thinking to break the problem down. Pattern matching is involved - people have travelled before, and use that knowledge to devise solutions. All of the steps chosen to solve the problem, i.e. the means of getting the different attendees to the meeting, are the programming algorithm that has been created to solve the problem after it has been broken down. 
 
