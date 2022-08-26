@@ -1,18 +1,17 @@
 ---
 title: More examples
 nav: Lesson
-topics: thinking versus programming
 ---
 
 While thinking computationally is a prerequisite for programming, programming and computational thinking are not the same thing.
 
-Programming instructs a computer to carry out a sequence of steps in a certain order. Computational thinking is the process that helps decide what those steps will be, i.e.  what the computer will be told to do. Computers are precise, and instructions must be clear and unambiguous. The good thing is computers are very fast and they do not get bored or distracted. They will happily carry out the same repetitive task over and over again and never make a mistake.
+Programming instructs a computer to carry out a sequence of steps in a certain order. Computational thinking is the process that helps decide what those steps will be, i.e.  what the computer will be told to do. Computers are precise, and instructions must be clear and unambiguous. The good thing is computers work very fast and they do not get bored or distracted. They will happily carry out the same repetitive task over and over again and never make a mistake.
+
+{% include figure.html img="proc-diagram.png" alt="Computational thinking at work" caption="The computational thinking process in action" width="75%" %}
 
 Subconsciously, we practise computational thinking every day of our lives. As Jeannette Wing stated: 
 
 *"Computational thinking describes the mental activity in formulating a problem to admit a computational solution. **The solution can be carried out by a human or machine**."*
-
-{% include figure.html img="proc-diagram.png" alt="Computational thinking at work" caption="The computational thinking process" width="75%" %}
 
 Every time, we need to plan to do something, we use some of the steps of computational thinking such as problem breakdown, pattern matching and developing algorithms. 
 
