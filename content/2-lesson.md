@@ -17,12 +17,14 @@ Every time, we need to plan to do something, we use some of the steps of computa
 
 Suppose we have to arrange a face to face meeting in city A. Some of the meeting attendees will need to travel to get there from cities B and C, and then transfer to the meeting venue from whatever form of transport they have used for their travel to city A. In order to arrange the successful transport of all attendees, the problem must first be broken down. Some of the factors will be:
 
-- Who is attending?
+- Who is attending, and from where?
 - What forms of transport will they use to get to city A?
 - What are the transport links to the venue from the airport, railway terminus or bus station?
 - How much time needs to be factored in for transit?
 - Does the cost of different local transport options need to be considered?
 - Do any of the attendees require disability support?
+
+{% include figure.html img="tr-options.png" alt="Breaking down a problem" caption=" Breaking down the problem" width="60%" %}
 
 In this case, the planning part uses computational thinking to break the problem down. Pattern matching is involved - people have travelled before, and use that knowledge to devise solutions. All of the steps chosen to solve the problem, i.e. the means of getting the different attendees to the meeting, are the programming algorithm that has been created to solve the problem after it has been broken down. 
 
