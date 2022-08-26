@@ -12,6 +12,8 @@ Subconsciously, we practise computational thinking every day of our lives. As Je
 
 *"Computational thinking describes the mental activity in formulating a problem to admit a computational solution. **The solution can be carried out by a human or machine**."*
 
+{% include figure.html img="proc-diagram.png" alt="Computational thinking at work" caption="The computational thinking process" width="75%" %}
+
 Every time, we need to plan to do something, we use some of the steps of computational thinking such as problem breakdown, pattern matching and developing algorithms. 
 
 Suppose we have to arrange a face to face meeting in city A. Some of the meeting attendees will need to travel to get there from cities B and C, and then transfer to the meeting venue from whatever form of transport they have used for their travel to city A. In order to arrange the successful transport of all attendees, the problem must first be broken down. Some of the factors will be:
