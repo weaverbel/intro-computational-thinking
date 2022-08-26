@@ -25,7 +25,7 @@ Using our second step - *Pattern Matching* - we can now spot a pattern, i.e. tha
 
 {% include figure.html img="pattern.png" alt="Spotting the pattern" width="25%" %}
 
-If we are adding up all the numbers between 1 and 200, we will end up with 100 pairs, all of which add up to **201**.
+If we follow this process with all the numbers between 1 and 200, we will end up with 100 pairs, all of which add up to **201**.
 
 -------
 
@@ -33,11 +33,11 @@ If we are adding up all the numbers between 1 and 200, we will end up with 100 p
 
 Using an *Algorithm* - another name for a series of steps - how do we calculate the final total?
 
-We multiply 100 (the number of pairs) by the total to which each pair adds up (**201**).
+We multiply the **number of pairs** (100) by **201** (the total to which each pair adds up).
 
 100 * 201 gives us the answer of **20,100**.
 
-But what about about our fourth step, *Abstraction*? 
+Now, what about about our fourth step, *Abstraction*? 
 
 -------
 
@@ -55,7 +55,7 @@ where *x* is the `number to be added.`
 
 -------------
 
-That's it! Using those four key steps, you have covered the basics of computational thinking.
+That's it! Using those four key steps, we have covered the basics of computational thinking.
 
 ---------
 
