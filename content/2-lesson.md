@@ -42,4 +42,4 @@ Should another meeting be needed in the future, with different attendees, the pr
 
 ### Practice
 
-Imagine you have invited three friends to your house for a lunch. Draw a chart of all the things you would need to consider in your plan to make this happen, such as seating, locating, recipes, table settings and so on.
+Imagine you have invited three friends to your house for a lunch. Draw a chart of all the things you would need to consider in your plan to make this happen, such as seating, location, recipes, table settings and so on.
