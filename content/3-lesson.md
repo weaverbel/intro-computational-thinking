@@ -12,7 +12,7 @@ Suppose we want to find the most commonly used ten words in a text. How would we
 
 There are many ways to do it. This is one way, where all the commands are run in a linear sequence. We could first
 
-{% include figure.html img="word-count.png" alt="counting words in a text" caption="Counting words in a text" width="75%" %}
+{% include figure.html img="word-counting.png" alt="counting words in a text" caption="Counting words in a text" width="75%" %}
 
 Job done.
 
