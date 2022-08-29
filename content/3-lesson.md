@@ -1,6 +1,6 @@
 ---
 title: Computational thinking in programming
-nav: Content
+nav: Examples
  
 ---
 
@@ -14,15 +14,6 @@ There are many ways to do it. This is one way, where all the commands are run in
 
 {% include figure.html img="word-count.png" alt="counting words in a text" caption="Counting words in a text" width="75%" %}
 
-- save the text as a text file (this will elimiate all "smart" formatting created by programs like Word)
-- remove all the punctuation
-- change the case of all the words to lower case 
-- remove all the `new line` characters
-- sort the file by word so that all instaces of a word appear sequentially
-- count the instances of each word
-- sort by count, with largest first
-- output the first ten words
-
 Job done.
 
 --------
@@ -31,4 +22,4 @@ Job done.
 
 However, programming rarely works in a linear fashion. Usually, code includes branching so that differwent pathways can be taken depending on the conditions being met or not met, e.g. a Yes/No decision.
 
-{% include figure.html img="workflow.png" alt="counting words in a text" caption="Counting words in a text" width="75%" %}
+{% include figure.html img="workflow.png" alt="Branching code" caption="Branching code" width="80%" %}
