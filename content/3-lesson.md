@@ -12,7 +12,7 @@ Suppose we want to find the most commonly used ten words in a text. How would we
 
 There are many ways to do it. This is one way, where all the commands are run in a linear sequence. We could first
 
-{% include figure.html img="word-counting.png" alt="counting words in a text" caption="Counting words in a text" width="75%" %}
+{% include figure.html img="word-counting.png" alt="counting words in a text" caption="Counting words in a text" width="60%" %}
 
 Job done.
 
@@ -22,4 +22,4 @@ Job done.
 
 However, programming rarely works in a linear fashion. Usually, code includes branching so that differwent pathways can be taken depending on the conditions being met or not met, e.g. a Yes/No decision.
 
-{% include figure.html img="workflow.png" alt="Branching code" caption="Branching code" width="80%" %}
+{% include figure.html img="workflow.png" alt="Branching code" caption="Branching code" width="90%" %}
