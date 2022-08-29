@@ -67,4 +67,4 @@ That's it! Using those four key steps, we have learned the basics of computation
 
 #### Practice
 
-Use the algorithm above to add up all the numbers betwen 1 and 400, 1 and 2000, and 1 and 20,000.
+Use the algorithm above to add up all the numbers betwen 1 and 16, 1 and 500, and 1 and 10,000.
