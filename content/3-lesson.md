@@ -16,10 +16,12 @@ There are many ways to do it. This is one way, where all the commands are run in
 
 Job done.
 
+Each part of the sequence would need to be individually coded. The good thing is that programmers can adapt code that others have already used to do similar tasks. This is where *pattern matching* comes in - finding similar code that can be adapted. 
+
 --------
 
 #### Branching code
 
-However, programming rarely works in a linear fashion. Usually, code includes branching so that differwent pathways can be taken depending on the conditions being met or not met, e.g. a Yes/No decision.
+However, most programming rarely works in a linear fashion. Code generally includes branching so that different pathways can be taken, depending on conditions being met or not met, e.g., different responses to a Yes/No decision, as in the example here.
 
 {% include figure.html img="workflow.png" alt="Branching code" caption="Branching code" width="90%" %}
