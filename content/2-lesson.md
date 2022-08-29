@@ -32,7 +32,7 @@ Suppose we have to arrange a face to face meeting in city A. Some of the meeting
 - How much time needs to be factored in for transit?
 - Does the cost of different local transport options need to be considered?
 
-{% include figure.html img="tr-options.png" alt="Breaking down a problem" caption="Breaking down the problem" width="60%" %}
+{% include figure.html img="travel-diag.png" alt="Breaking down a problem" caption="Breaking down the problem" width="65%" %}
 
 It is helpful to break the problem down into its constituent parts. Pasting sticky notes on a wall, or creating a chart on a whiteboard can help with this. 
 In this case, the planning part uses computational thinking to break the problem down. Pattern matching is involved - people know where to find travel information, and can use that knowledge to devise solutions. All of the steps chosen to solve the problem, i.e. the means of getting the different attendees to the meeting, comprise the programming algorithm that has been created to solve the problem after it has been broken down. 
