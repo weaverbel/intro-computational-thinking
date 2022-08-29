@@ -1,6 +1,6 @@
 ---
 title: More examples
-nav: Lesson
+nav: Two
 ---
 
 While thinking computationally is a prerequisite for programming, programming and computational thinking are not the same thing.
