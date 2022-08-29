@@ -8,7 +8,11 @@ Decomposition is really important in programming. The computer must be told prec
 
 Suppose we want to find the most commonly used ten words in a text. How would we go about that?
 
-There are many ways to do it. This is one way. We could first
+#### Linear code
+
+There are many ways to do it. This is one way, where all the commands are run in a linear sequence. We could first
+
+{% include figure.html img="word-count.png" alt="counting words in a text" caption="Counting words in a text" width="75%" %}
 
 - save the text as a text file (this will elimiate all "smart" formatting created by programs like Word)
 - remove all the punctuation
@@ -20,3 +24,11 @@ There are many ways to do it. This is one way. We could first
 - output the first ten words
 
 Job done.
+
+--------
+
+#### Branching code
+
+However, programming rarely works in a linear fashion. Usually, code includes branching so that differwent pathways can be taken depending on the conditions being met or not met, e.g. a Yes/No decision.
+
+{% include figure.html img="workflow.png" alt="counting words in a text" caption="Counting words in a text" width="75%" %}
