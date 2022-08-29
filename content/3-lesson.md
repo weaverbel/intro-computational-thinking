@@ -32,7 +32,7 @@ Links on sites that teach coding and other resources on computational thinking a
 
 ---------
 
-**** Practice
+#### Practice
 
 You have been asked to establish a contact tree for your local walking group. Draw a process diagram for the steps you would take to achieve that. 
 
