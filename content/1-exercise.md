@@ -23,11 +23,11 @@ Let's add up the third and the third last numbers, i.e. 198 + 3. The answer is *
 
 -------
 
-### Pattern Matching
+### Pattern Recognition
 
-Using our second step - *Pattern Matching* - we can now spot a pattern, i.e. that each pair of numbers will add up to **201**.
+Using our second step - *Pattern Recognition* - we can now spot a pattern, i.e. that each pair of numbers will add up to **201**.
 
-{% include figure.html img="pattern-spot.png" alt="Spotting the pattern" caption="Spotting the pattern" width="25%" %}
+{% include figure.html img="pattern-spot.png" alt="Spotting a pattern" caption="Spotting a pattern" width="25%" %}
 
 If we follow this same process with **all** the numbers between 1 and 200, we will end up with **100 pairs**, each of which will add up to **201**.
 
@@ -49,7 +49,7 @@ Now, what about about our fourth step, *Abstraction*?
 
 ### Abstraction 
 
-*Abstraction* will enable us to repeat the process we used to add up all the numbers between 1 and 200 to add up a *different* set of numbers, e.g., 1-500.
+*Abstraction* will enable us to repeat the process we used to add up the numbers between 1 and 200 to add up a *different* set of numbers, e.g., 1-500.
 
 The *Algorithm* will be 
 
