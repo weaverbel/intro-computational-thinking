@@ -30,9 +30,11 @@ Suppose we have to arrange a face to face meeting in city A. Some of the meeting
 - What forms of transport will they use to get to city A?
 - What are the transport links to the venue from the airport, railway terminus or bus station?
 
-{% include figure.html img="travel-diag.png" alt="Breaking down a problem" caption="Breaking down the problem" width="85%" %}
+{% include figure.html img="travel-diag.png" alt="Breaking down a problem" caption="Breaking down the problem" width="100%" %}
 
 Time and cost constraints would also need to be considered, as would any potential need for disability support. The diagram can be expanded to fit more and more in as issues are progressively identified.
+
+#### Breaking problems down
 
 When trying to solve problems, it is helpful to break them down into their constituent parts. 
 
@@ -46,4 +48,4 @@ Should another meeting be needed in the future, with different attendees, the pr
 
 ### Practice
 
-Imagine you have invited three friends to your house for a lunch. Draw a dhart or diagram of all the things you would need to consider in your plan to make this happen, such as location, seating, recipes, drinks, table settings and so on.
+Imagine you have invited three friends to your house for a lunch. Draw a chart or diagram of all the things you would need to consider in your plan to make this happen, such as location, seating, recipes, drinks, table settings and so on.
