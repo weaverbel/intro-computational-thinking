@@ -14,7 +14,7 @@ While thinking computationally is a prerequisite for programming, programming an
 
 Computers are precise, and computing instructions must be clear and unambiguous. Luckily, computers work very quickly. Unlike humans, they do not get bored or distracted, and will carry out the same tedious, repetitive tasks over and over again without making mistakes.
 
-{% include figure.html img="proc-diagram.png" alt="Computational thinking at work" caption="The computational thinking process in action" width="75%" %}
+{% include figure.html img="proc-diagram.png" alt="Computational thinking at work" caption="The computational thinking process in action" width="100%" %}
 
 #### Computational thinking in our daily lives
 
