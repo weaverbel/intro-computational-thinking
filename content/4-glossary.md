@@ -6,13 +6,22 @@ nav: Glossary
 | **Term** | **Meaning** |
 | :--- | :--- |
 | **Abstraction** | Reducing a problem's complexity by focusing solely on the most important parts is called abstraction. Abstraction involves generalising from specific instances to things that can be applied more broadly. For example, a model is an abstract representation of a real system, and models can be used for testing and planning in a way that real world systems cannot. The use of variables in algebra (e.g., *`x=y/2`*) or in computer programming is another example of abstraction. |
+| &nbsp; | &nbsp; |
 | **Algorithm** | An algorithm is a series of steps that must be followed in a specific order to solve a problem. When you plan a route home from work or cook a recipe, you are executing an algorithm. Presenting a solution to a problem in the form of an algorithm makes a process reproducible by others. |
+| &nbsp; | &nbsp; |
 | **Automation** |  Automation often involves using a program or computer application to perform repetitive tasks or calculations. By making processes reproducible, algorithms are a key enabler of automation. |
+| &nbsp; | &nbsp; |
 | **Coding** | Another word for computer programming, i.e. writing computer code that instructs a computer in what to do. |
+| &nbsp; | &nbsp; |
 | **Decomposition** | Solving a complex problem by breaking it down into smaller, more manageable tasks. |
+| &nbsp; | &nbsp; |
 | **Pattern matching** | Pattern matching identifies specific patterns within data, regardless of where the pattern might occur. In contrast to pattern recognition, pattern matching only identifies exact matches. Regular expressions can be used to specify these patterns. |
+| &nbsp; | &nbsp; |
 | **Pattern recognition** | In computational thinking, identifying patterns or connections across the different parts of a larger problem is one of the keys to solving it. Our brains are good at identifying similarities, making it easier to use previous experience and methods to come up with solutions.  |
+| &nbsp; | &nbsp; |
 | **Regular expressions** | Often abbreviated to `regex`, regular expressions can be used to specify exact search patterns within data. Such patterns are generally used for "find" or "find and replace" operations within data, e.g., searching for postcodes, telephone numbers, names, chemical formulae and so on. |
+| &nbsp; | &nbsp; |
 | **Programming** | Another word for coding. |
+| &nbsp; | &nbsp; |
 | **Use of Data** | Working with data can involve computational thinking. Collecting data, analysing data, and visualising data can all help you break a problem down. |
 
