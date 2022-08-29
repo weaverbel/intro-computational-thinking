@@ -1,16 +1,16 @@
 ---
 title: Computational thinking in programming
-nav: Examples
+nav: Three
  
 ---
 
-*Decomposition* is really important in programming. The computer must be told precisely what to do, and in what order, so a problem you are solving must be broken down into parts and each section coded appropriately.
+*Decomposition* is really important in programming. The computer must be told precisely what to do, and in what order, so problems must be broken down into discrete parts and each section coded appropriately.
 
-Suppose we want to find the most commonly used ten words in a text. How would we go about that?
+Suppose we want to find the ten words most commonly used in a text. How would we go about that?
 
 #### Linear code
 
-There are many ways to do this task. This is one way, where all the commands are run in a linear sequence, e.g.,
+There are many different ways to do this task. This is one way, where all the commands are run in a linear sequence, e.g.,
 
 {% include figure.html img="count-words.png" alt="counting words in a text" caption="Counting words in a text" width="60%" %}
 
@@ -28,6 +28,6 @@ Programming rarely works in such a linear fashion. Code generally includes branc
 
 #### Learning to program
 
-This lesson is not intended to teach you coding, but to help you prepare to learn to code by first understanding the process that coders use to break complex problems down into actionable sections. 
+This **Introduction to computational thinking** lesson  is not intended to teach you coding, but to help you prepare to learn to code by first understanding the process that coders use to break complex problems down into actionable sections. 
 
 Links on sites that teach coding and other resources on computational thinking are listed in the following section. 
