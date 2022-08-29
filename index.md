@@ -7,9 +7,9 @@ layout: default
 
 {% include figure.html img="stickies.jpg" alt="Sticky notes on a wall"  width="65%" %}
 
-Photo by [Alex Lion](https://unsplash.com/es/@alexlionco) on [Unsplash](https://unsplash.com/) 
+*Photo by [Alex Lion](https://unsplash.com/es/@alexlionco) on [Unsplash](https://unsplash.com/).*
 
-### Topic and aims
+#### Topic and aims
 
 Once you have completed this workshop on computational thinking, you should be able to:
 
@@ -18,15 +18,15 @@ Once you have completed this workshop on computational thinking, you should be a
 - Develop an algorithm to solve the problem
 - Use abstraction to make the algorithm re-usable
 
-### Audience
+#### Audience
 
 This workshop is aimed at researchers at all career stages who want to understand both the uses and the building blocks of computational thinking.
 
-### Prerequisites
+#### Prerequisites
 
 None.
 
-### Assumed knowledge
+#### Assumed knowledge
 
 No prior knowledge is assumed.
 
