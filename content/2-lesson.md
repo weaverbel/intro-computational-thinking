@@ -8,7 +8,9 @@ While thinking computationally is a prerequisite for programming, programming an
 
 | **Programming** |  **Computational thinking** |
 | :--- | :--- | 
-| instructs a computer to carry out a sequence of steps in a particular order. | is the process that helps decide what those steps will be, i.e.  what the computer will be told to do. |    
+| instructs a computer to carry out a sequence of steps in a particular order. | is the process that helps decide what those steps will be, i.e.  what the computer will be told to do. |      
+
+------
 
 Computers are precise, and computing instructions must be clear and unambiguous. Luckily, computers work very quickly. Unlike humans, they do not get bored or distracted, and will carry out the same tedious, repetitive tasks over and over again without making mistakes.
 
