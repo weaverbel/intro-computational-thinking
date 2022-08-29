@@ -1,13 +1,13 @@
 ---
 title: Introduction
-nav: Intro
+nav: Introduction
 ---
 
 Computational thinking is an essential prerequisite for anyone wanting to learn to write computer code.
 
-There are many different definitions of computational thinking. However, it can be described as a set of strategies to enable people to solve problems, especially complex ones.
+Many different definitions of computational thinking exist. However, computational thinking can be described as a set of strategies to enable people to solve problems, especially complex problems.
 
-Professor Jeannette Wing (1) brought computational thinking to prominence in a 2006 paper. She says, *"Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or machine, or more generally, by combinations of humans and machines."*
+Professor Jeannette Wing (1) raised computational thinking as an important issue for researchers in a 2006 paper. She stated, *"Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or machine, or more generally, by combinations of humans and machines."*
 
 The BBC (2) provides a good definition:
 
@@ -17,12 +17,12 @@ The BBC (2) provides a good definition:
 
 There are four essential components of computational thinking:
 
-- **Decomposition** – breaking a problem down into more manageable parts so that a solution can be found for each
-- **Pattern recognition** – looking for similarities with other problems 
-- **Algorithms** – developing a step-by-step solution to the problem
-- **Abstraction** – abstracting the important detail that can make a solution reusable
+- **Decomposition** – breaking a problem down into more manageable parts so that solutions can be found for each
+- **Pattern recognition** – looking for similarities with other problems so that past solutions can be re-used 
+- **Algorithms** – developing a step-by-step solution to each part of the problem
+- **Abstraction** – abstracting the important detail that can make a solution reusable, possibly by creating mathematical formulae
 
-In the following exercise, we will see each step at work.
+In the next exercise, we will see each step at work.
 
 -------------
 
