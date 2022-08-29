@@ -1,6 +1,6 @@
 ---
 title: Exercise
-nav: Exercise
+nav: One
 ---
 
 In this exercise, we will see how computational thinking can help us add up all the numbers between 1 and 200 in our heads within a minute. 
