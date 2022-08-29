@@ -1,21 +1,25 @@
 ---
-title: Exercise 1
+title: Exercise
 nav: Exercise
 ---
 
-In this exercise, we will see how computational thinking can help us add up all the numbers between 1 and 200 within a minute.
+In this exercise, we will see how computational thinking can help us add up all the numbers between 1 and 200 in our heads within a minute. 
 
-Using the first step - *Decomposition* - we break the problem up into smaller pieces.
+Seems impossible?
+
+It's not.
+
+Using the first step - *Decomposition* - we break the problem up into smaller pieces. Rather than trying to add up numbers randomly, let's start by simply adding two of them.
 
 ### Decomposition
 
-We can begin at each end of the sequence by adding up the first (1) and last (200) numbers.
+Let's begin at each end of the sequence by adding up the first (1) and last (200) numbers.
 
 What is 200 + 1? The answer is **201**.
 
-Then we add up the second and the second last numbers, i.e. 199 + 2. The answer is **201**.
+Let's add up the second and the second last numbers, i.e. 199 + 2. The answer is **201**.
 
-Then we add up the third and the third last numbers, i.e. 198 + 3. The answer is **201**.
+Let's add up the third and the third last numbers, i.e. 198 + 3. The answer is **201**.
 
 -------
 
@@ -25,7 +29,7 @@ Using our second step - *Pattern Matching* - we can now spot a pattern, i.e. tha
 
 {% include figure.html img="pattern.png" alt="Spotting the pattern" width="25%" %}
 
-If we follow this process with all the numbers between 1 and 200, we will end up with 100 pairs, all of which add up to **201**.
+If we follow this same process with **all** the numbers between 1 and 200, we will end up with **100 pairs**, each of which will add up to **201**.
 
 -------
 
@@ -35,7 +39,9 @@ Using an *Algorithm* - another name for a series of steps - how do we calculate 
 
 We multiply the **number of pairs** (100) by **201** (the total to which each pair adds up).
 
-100 * 201 gives us the answer of **20,100**.
+`100 * 201` gives us the answer of **20,100**.
+
+So far, so good.
 
 Now, what about about our fourth step, *Abstraction*? 
 
@@ -43,7 +49,7 @@ Now, what about about our fourth step, *Abstraction*?
 
 ### Abstraction 
 
-*Abstraction* will enable us to repeat the process we used to add 1-200 to add up a different set of numbers, e.g., 1-500.
+*Abstraction* will enable us to repeat the process we used to add up all the numbers between 1 and 200 to add up a *different* set of numbers, e.g., 1-500.
 
 The *Algorithm* will be 
 
@@ -51,11 +57,11 @@ The *Algorithm* will be
 
 `(x/2) * (x + 1)`
 
-where *x* is the `number to be added.`
+where *x* is the `number to be added`.
 
 -------------
 
-That's it! Using those four key steps, we have covered the basics of computational thinking.
+That's it! Using those four key steps, we have learned the basics of computational thinking.
 
 ---------
 
