@@ -7,7 +7,7 @@ While thinking computationally is a prerequisite for programming, programming an
 
 
 | **Programming** |  **Computational thinking** |
-| :--- | :--- | 
+| :---: | :---: | 
 | instructs a computer to carry out a sequence of steps in a particular order. | is the process that helps decide what those steps will be, i.e.  what the computer will be told to do. |      
 
 ------
