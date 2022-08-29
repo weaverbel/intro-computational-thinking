@@ -10,13 +10,11 @@ Suppose we want to find the ten words most commonly used in a text. How would we
 
 #### Linear code
 
-There are many different ways to do this task. This is one way, where all the commands are run in a linear sequence, e.g.,
+While there are many different ways to do this task, this is one way, where all the commands are run in a linear sequence, e.g.,
 
 {% include figure.html img="count-words.png" alt="counting words in a text" caption="Counting words in a text" width="60%" %}
 
-Job done.
-
-Each part of the sequence would need to be individually coded. The good thing is that programmers can adapt code that others have already used to do similar tasks, such as identifying letter, number or word frequency. This is where the computational thinking skill of *pattern matching* comes in - identifying similar code that can be used or adapted to the specific problem you have. 
+Each part of the sequence would need to be individually programmed. Fortunately, programmers can adapt code that others have already used to do similar tasks, such as identifying letter, number or word frequency. This is where the computational thinking skill of *pattern recognition* comes in - identifying similar code that can be used for or adapted to the specific problem you have. 
 
 --------
 
@@ -31,3 +29,10 @@ Programming rarely works in such a linear fashion. Code generally includes branc
 This **Introduction to computational thinking** lesson  is not intended to teach you coding, but to help you prepare to learn to code by first understanding the process that coders use to break complex problems down into actionable sections. 
 
 Links on sites that teach coding and other resources on computational thinking are listed in the following section. 
+
+---------
+
+**** Practice
+
+You have been asked to establish a contact tree for your local walking group. Draw a process diagram for the steps you would take to achieve that. 
+
