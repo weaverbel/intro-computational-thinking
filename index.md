@@ -24,7 +24,7 @@ This workshop is aimed at researchers at all career stages who want to understan
 
 #### Prerequisites
 
-None.
+A pen and paper.
 
 #### Assumed knowledge
 
