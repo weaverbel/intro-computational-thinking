@@ -6,9 +6,9 @@ nav: Lesson
 While thinking computationally is a prerequisite for programming, programming and computational thinking are not the same thing.
 
 
-| **Programming** |  **Computational thinking** |
-| :---: | :---: | 
-| instructs a computer to carry out a sequence of steps in a particular order. | is the process that helps decide what those steps will be, i.e.  what the computer will be told to do. |      
+| **Programming** | &nbsp; |  **Computational thinking** |
+| :---: | :---: | :---: | 
+| instructs a computer to carry out a sequence of steps in a particular order. | &nbsp; | is the process that helps decide what those steps will be, i.e.  what the computer will be told to do. |      
 
 ------
 
