@@ -1,6 +1,6 @@
 ---
 title: Introduction
-nav: Introduction
+nav: Intro
 ---
 
 Computational thinking is an essential prerequisite for anyone wanting to learn to write computer code.
