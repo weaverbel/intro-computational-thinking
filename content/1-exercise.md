@@ -3,29 +3,29 @@ title: Exercise
 nav: One
 ---
 
-In this exercise, we will see how computational thinking can help us add up all the numbers between 1 and 200 in our heads within a minute. 
+In this exercise, we will see how computational thinking can help us add up all the numbers between 1 and 200 in our heads. We should be able to do this in less than a minute. 
 
 Seems impossible?
 
 It's not.
 
-Using the first step - *Decomposition* - we break the problem up into smaller pieces. Rather than trying to add up numbers randomly, let's start by simply adding two of them.
+Using the first computational thinking step - *Decomposition* - we break the problem up into smaller pieces. Rather than trying to add up numbers randomly, let's start by simply adding two of them.
 
 ### Decomposition
 
-Let's begin at each end of the sequence by adding up the first (1) and last (200) numbers.
+Let's begin at each end of the 1-200 sequence by adding up the first (1) and last (200) numbers.
 
-What is 200 + 1? The answer is **201**.
+What is `200 + 1`? The answer is **201**.
 
-Let's add up the second and the second last numbers, i.e. 199 + 2. The answer is **201**.
+Let's add up the second and the second last numbers, i.e. `199 + 2`. The answer is **201**.
 
-Let's add up the third and the third last numbers, i.e. 198 + 3. The answer is **201**.
+Let's add up the third and the third last numbers, i.e. `198 + 3`. The answer is **201**.
 
 -------
 
 ### Pattern Recognition
 
-Using our second step - *Pattern Recognition* - we can now spot a pattern, i.e. that each pair of numbers will add up to **201**.
+Using our second step - *Pattern Recognition* - we can now spot a pattern, i.e. that each pair of numbers appears to add up to **201**.
 
 {% include figure.html img="pattern-spot.png" alt="Spotting a pattern" caption="Spotting a pattern" width="25%" %}
 
@@ -67,4 +67,6 @@ That's it! Using those four key steps, we have learned the basics of computation
 
 #### Practice
 
-Use the algorithm above to add up all the numbers betwen 1 and 16, 1 and 500, and 1 and 10,000.
+1. Use the algorithm above to add up all the numbers betwen 1 and 24, 1 and 500, and 1 and 10,000.
+
+2. Those are all even numbers. What is the process for adding up all the numbers if the final number is an odd one, e.g., 1-17?
