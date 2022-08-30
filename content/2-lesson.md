@@ -52,6 +52,14 @@ In this case, the planning part uses computational thinking to break the problem
 
 Should another meeting be needed in the future, with different attendees, the process above could be abstracted and re-used to solve the issue. 
 
+#### Structure diagrams
+
+Structure diagrams allow you to plan your problem breakdown visually. At the top should be the objective, and the steps underneath should start with high level considerations. These high level considerations can then be broken down into smaller and smaller steps.
+
+In the example below, a group of five people have survived a major nuclear accident. They do not know how many other people might have survived, or what kinds of conditions they are facing. They have to work out how they are going to survive. The diagram is the start of their thinking about their immediate needs. 
+
+{% include figure.html img="struc-diag.png" alt="Structure diagram" caption="Sample structure diagram" width="85%" %}
+
 ---------
 
 ### Practice
