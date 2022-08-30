@@ -7,7 +7,7 @@ layout: default
 
 {% include figure.html img="stickies.jpg" alt="Sticky notes on a wall"  width="65%" %}
 
->*Photo by [Alex Lion](https://unsplash.com/es/@alexlionco) on [Unsplash](https://unsplash.com/).*
+*Photo by [Alex Lion](https://unsplash.com/es/@alexlionco) on [Unsplash](https://unsplash.com/).*
 
 #### Topic and aims
 
@@ -28,7 +28,7 @@ A pen and paper is all you will need to complete this workshop. All the practice
 
 #### Assumed knowledge
 
-No prior knowledge is assumed. Use the [glossary](4-glossary.md) to familiarise yourself with the meaning of terms like abstraction and algorithm. 
+No prior knowledge is assumed. Use the [glossary](content/4-glossary.md) to familiarise yourself with the meaning of terms like abstraction and algorithm. 
 
 
 {% include toc.html %}
