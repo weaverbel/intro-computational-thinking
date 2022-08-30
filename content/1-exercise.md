@@ -67,7 +67,7 @@ That's it! Using those four key steps, we have learned the basics of computation
 
 #### Practice
 
-Use the algorithm above to add up all the numbers betwen 1 and 24, 1 and 150, and 1 and 1,000.
+Use the algorithm above to add up all the numbers between 1 and 24, 1 and 50, and 1 and 1,000.
 
 #### Discussion
 
