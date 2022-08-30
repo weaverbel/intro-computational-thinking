@@ -71,4 +71,4 @@ Use the algorithm above to add up all the numbers between 1 and 24, 1 and 50, an
 
 #### Discussion
 
-The numbers above are all even numbers. What would be the process for adding up numbers if the final number is an odd one, e.g., 17? Can you use the same formula? If not, what adaptations would you need to make to to the formula?
+The numbers above are all even numbers. What would be the process for adding up numbers if the final number is an odd one, e.g., 17? Can you use the same formula? If not, what adaptations would you need to make to the formula?
