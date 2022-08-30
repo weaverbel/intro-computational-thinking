@@ -67,6 +67,8 @@ That's it! Using those four key steps, we have learned the basics of computation
 
 #### Practice
 
-1. Use the algorithm above to add up all the numbers betwen 1 and 24, 1 and 500, and 1 and 10,000.
+Use the algorithm above to add up all the numbers betwen 1 and 24, 1 and 150, and 1 and 1,000.
 
-2. Those are all even numbers. What is the process for adding up all the numbers if the final number is an odd one, e.g., 1-17? Can you use the same formula?
+#### Discussion
+
+The numbers above are all even numbers. What would be the process for adding up numbers if the final number is an odd one, e.g., 1-17? Can you use the same formula? If not, what adaptations would you need to make to to the formula?
