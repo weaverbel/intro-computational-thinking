@@ -12,6 +12,7 @@ nav: Resources
 5. [Exploring computational thinking](https://learn.iste.org/d2l/lor/search/search_results.d2l?ou=6606&lrepos=1006)
 6. [Exploring computational thinking](https://edu.google.com/resources/programs/exploring-computational-thinking/)
 7. [What is a digital system?](https://www.digitaltechnologieshub.edu.au/search#/site-search?pageNumber=1&keyword=GoogleCT)
+8. https://www.youtube.com/watch?v=dHWmnayy8MY
 
 #### Learning to code
 
