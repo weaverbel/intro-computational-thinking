@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# Computational Thinking
+# Introducing Computational Thinking
 
 {% include figure.html img="stickies.jpg" alt="Sticky notes on a wall"  width="65%" %}
 
