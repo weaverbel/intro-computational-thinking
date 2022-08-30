@@ -12,11 +12,11 @@ nav: Resources
 5. [Exploring computational thinking](https://learn.iste.org/d2l/lor/search/search_results.d2l?ou=6606&lrepos=1006)
 6. [Exploring computational thinking](https://edu.google.com/resources/programs/exploring-computational-thinking/)
 7. [What is a digital system?](https://www.digitaltechnologieshub.edu.au/search#/site-search?pageNumber=1&keyword=GoogleCT)
-8. https://www.youtube.com/watch?v=dHWmnayy8MY
+8. [Computational thinking](https://www.youtube.com/watch?v=dHWmnayy8MY)
 
 #### Learning to code
 
-There are many courses on learning to code, whether that be in Python, R, Django or C++. Find one that suits you.
+There are many courses on learning to code, whether that be in Python, R, or C++. Find one that suits you.
 
 1. [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
 2. [Software Carpentry](https://software-carpentry.org/)
