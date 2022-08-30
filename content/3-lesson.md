@@ -32,7 +32,7 @@ Programming rarely works in such a linear fashion. Code generally includes branc
 
 #### Learning to program
 
-This **Introduction to computational thinking** lesson  is not intended to teach you coding, but to help you prepare to learn to code by first understanding the process that coders use to break complex problems down into actionable sections. 
+This **Computational thinking** lesson  is not intended to teach you coding, but to help you prepare to learn to code by first understanding the process that coders use to break complex problems down into actionable sections. 
 
 Links on sites that teach coding and other resources on computational thinking are listed in the following section. 
 
@@ -40,5 +40,5 @@ Links on sites that teach coding and other resources on computational thinking a
 
 #### Practice
 
-You have been asked to establish a contact tree for your local walking group. Draw a structure diagram for the steps you would take to achieve that. 
+You have been asked to establish a decentralised contact tree for your local walking group. Draw a structure diagram for the steps you would take to achieve that. 
 
