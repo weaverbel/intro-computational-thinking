@@ -58,7 +58,7 @@ Structure diagrams allow you to plan your problem breakdown visually. At the top
 
 In the example below, a group of five people have survived a major nuclear accident. They do not know how many other people might have survived, or what kinds of conditions they are facing. They have to work out how they are going to survive. The diagram is the start of their thinking about their immediate needs. 
 
-{% include figure.html img="struc-diag.png" alt="Structure diagram" caption="Sample structure diagram" width="85%" %}
+{% include figure.html img="struc-diagram.png" alt="Structure diagram" caption="Sample structure diagram" width="85%" %}
 
 ---------
 
