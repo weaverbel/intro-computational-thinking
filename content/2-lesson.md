@@ -46,7 +46,7 @@ Time and cost constraints would also need to be considered, as would any potenti
 
 When trying to solve problems, it is essential to break them down into their constituent parts. 
 
-Pasting sticky notes on a wall, or creating a structure diagram on a whiteboard can help with this. (A structure diagram can be described as a conceptual modelling tool to list and organise the different steps in a process.)
+Pasting sticky notes on a wall, or creating a structure diagram on a whiteboard can help with this. 
 
 In this case, the planning part uses computational thinking to break the problem down. Pattern recognition is involved - people know how to look up travel information, and can use that knowledge to devise solutions. All of the steps chosen to solve the problem, i.e. the means of getting the different attendees to the meeting, comprise the programming algorithm created to solve the problem after it has been broken down into manageable parts. 
 
@@ -58,7 +58,7 @@ Structure diagrams allow you to plan your problem breakdown visually. At the top
 
 In the example below, a group of five people have survived a major nuclear accident. They do not know how many other people might have survived, or what kinds of conditions they are facing. They have to work out how they are going to survive. The diagram is the start of their thinking about their immediate needs. 
 
-{% include figure.html img="struc-diagram.png" alt="Structure diagram" caption="Sample structure diagram" width="85%" %}
+{% include figure.html img="struc-diagram.png" alt="Structure diagram" caption="Sample structure diagram" width="100%" %}
 
 ---------
 
