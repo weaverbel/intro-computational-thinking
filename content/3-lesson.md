@@ -16,7 +16,7 @@ While there are many different ways to do this task, this is one way, where all 
 
 First we save the file in `.txt` format to eliminate all the "smart" formatting added in by programs like Word. Then we progressively eliminate everything that is not a word, i.e. punctuation. 
 
-Converting all the words to lower case means we end up with a single version of a word - not two. This is important because, to a computer, `Word` does not equal `word` but treats them as two separate entities. 
+Converting all the words to lower case means we end up with a single version of a word - not two. This is important because, to a computer, `Word` does not equal `word` - it treats them as two separate entities. 
 
 By replacing spaces with new line characters, we end up with each word on its own line, which makes them easy to sort and count.
 
@@ -26,13 +26,13 @@ Each part of the sequence would need to be individually programmed. Fortunately,
 
 #### Branching code
 
-Programming rarely works in such a linear fashion. Code generally includes branching so that different pathways can be taken, depending on whether conditions are met or not met, e.g., different responses to a `Yes/No` decision, as in the example here.
+Programming rarely works in such a linear fashion. Code generally includes branching so that different pathways can be taken, depending on whether or not certain conditions are met, e.g., different responses to a `Yes/No` decision, as in the example here.
 
 {% include figure.html img="workflow.png" alt="Branching code" caption="Branching code" width="90%" %}
 
 #### Learning to program
 
-This **Computational thinking** lesson  is not intended to teach you coding, but to help you prepare to learn to code by first understanding the process that coders use to break complex problems down into actionable sections. 
+This lesson should help you prepare to learn to code by understanding the process that coders use to break complex problems down into programmable parts. 
 
 Links on sites that teach coding and other resources on computational thinking are listed in the following section. 
 
@@ -41,4 +41,3 @@ Links on sites that teach coding and other resources on computational thinking a
 #### Practice
 
 You have been asked to establish a decentralised contact tree for your local walking group. Draw a structure diagram for the steps you would take to achieve that. 
-
