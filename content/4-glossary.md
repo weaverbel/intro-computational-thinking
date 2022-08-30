@@ -19,7 +19,7 @@ nav: Glossary
 | &nbsp; | &nbsp; |
 | **Pattern recognition** | In computational thinking, identifying patterns or connections across the different parts of a larger problem is one of the keys to solving it. Our brains are good at identifying similarities, making it easier to use previous experience and methods to come up with solutions.  |
 | &nbsp; | &nbsp; |
-| **Regular expressions** | Often abbreviated to `regex`, regular expressions can be used to specify exact search patterns within data. Such patterns are generally used for "find" or "find and replace" operations within data, e.g., searching for postcodes, telephone numbers, names, chemical formulae and so on. |
+| **Regular expressions** | Often abbreviated to `regex`, regular expressions can be used to specify exact search patterns within data. Such patterns are generally used for `search` or `search and replace` operations within data, e.g., searching for postcodes, telephone numbers, names, chemical formulae and so on. |
 | &nbsp; | &nbsp; |
 | **Programming** | Another word for coding. |
 | &nbsp; | &nbsp; |
