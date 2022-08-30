@@ -3,7 +3,7 @@ title: Introduction
 nav: Intro
 ---
 
-Computational thinking is an essential prerequisite for anyone wanting to learn to write computer code.
+Computational thinking is an essential prerequisite for anyone wanting to learn to program computers and write code.
 
 Many different definitions of computational thinking exist. However, computational thinking can be described as a set of strategies to enable people to solve problems, especially complex problems.
 
