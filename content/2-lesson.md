@@ -28,7 +28,7 @@ Project managers use computational thinking to plan complex activities.
 
 Epidemiologists use it to identify patterns to predict how a disease outbreak will spread. 
 
-Parents use it to plot how they will juggle parenting, work and childcare.
+Parents use it to plot how they will juggle work, parenting, commuting and housework.
 
 #### Breaking problems down
 
