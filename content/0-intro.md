@@ -5,7 +5,7 @@ nav: Intro
 
 Computational thinking is an essential prerequisite for anyone wanting to learn to program computers and write code.
 
-Many different definitions of computational thinking exist. However, computational thinking can be described as a set of strategies to enable people to solve problems, especially complex problems.
+Many different definitions of computational thinking exist. However, computational thinking can be described as a set of strategies to enable people to solve problems, especially complex ones.
 
 The BBC (1) provides a good definition:
 
@@ -21,8 +21,8 @@ There are four essential components of computational thinking:
 
 - **Decomposition** – breaking a problem down into more manageable parts so that solutions can be found for each
 - **Pattern recognition** – looking for similarities within a problem or with other problems so that past solutions or knowledge can be re-used 
-- **Algorithms** – developing a step-by-step solution to each part of the problem
-- **Abstraction** – abstracting the important detail that can make a solution reusable, possibly by creating mathematical formulae
+- **Algorithms** – developing step-by-step solutions to each part of the problem
+- **Abstraction** – abstracting the important detail to make a solution reusable, possibly by creating processes or mathematical formulae 
 
 In the next exercise, we will see each step at work.
 
