@@ -15,21 +15,21 @@ Using the first computational thinking step - *Decomposition* - we break the pro
 
 Let's begin at each end of the 1-200 sequence by adding up the first (1) and last (200) numbers.
 
-What is `200 + 1`? The answer is **201**.
+What is `200 + 1`? The answer is `201`.
 
-Let's add up the second and the second last numbers, i.e. `199 + 2`. The answer is **201**.
+Let's add up the second and the second last numbers, i.e. `199 + 2`. The answer is `201`.
 
-Let's add up the third and the third last numbers, i.e. `198 + 3`. The answer is **201**.
+Let's add up the third and the third last numbers, i.e. `198 + 3`. The answer is `201`.
 
 -------
 
 ### Pattern Recognition
 
-Using our second step - *Pattern Recognition* - we can now spot a pattern, i.e. that each pair of numbers appears to add up to **201**.
+Using our second step - *Pattern Recognition* - we can now spot a pattern, i.e. that each pair of numbers appears to add up to `201`.
 
 {% include figure.html img="pattern-spot.png" alt="Spotting a pattern" caption="Spotting a pattern" width="25%" %}
 
-If we follow this same process with **all** the numbers between 1 and 200, we will end up with **100 pairs**, each of which will add up to **201**.
+If we follow this same process with **all** the numbers between 1 and 200, we will end up with **100 pairs**, each of which will add up to `201`.
 
 -------
 
@@ -37,9 +37,9 @@ If we follow this same process with **all** the numbers between 1 and 200, we wi
 
 Using an *Algorithm* - another name for a series of steps - how do we calculate the final total?
 
-We multiply the **number of pairs** (100) by **201** (the total to which each pair adds up).
+We multiply the `number of pairs` (100) by `201` (the total to which each pair adds up).
 
-`100 * 201` gives us the answer of **20,100**.
+`100 * 201` gives us the answer of `20,100`.
 
 So far, so good.
 
@@ -57,7 +57,7 @@ The *Algorithm* will be
 
 `(x/2) * (x + 1)`
 
-where *x* is the `number to be added`.
+where *`x`* is the `number to be added`.
 
 -------------
 
@@ -69,4 +69,4 @@ That's it! Using those four key steps, we have learned the basics of computation
 
 1. Use the algorithm above to add up all the numbers betwen 1 and 24, 1 and 500, and 1 and 10,000.
 
-2. Those are all even numbers. What is the process for adding up all the numbers if the final number is an odd one, e.g., 1-17?
+2. Those are all even numbers. What is the process for adding up all the numbers if the final number is an odd one, e.g., 1-17? Can you use the same formula?
