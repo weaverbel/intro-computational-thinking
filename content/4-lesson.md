@@ -12,7 +12,7 @@ When breaking problems down, pasting sticky notes on a wall, or creating a struc
 Suppose we loved the book *Little Women*, but we wonder now whether Jo got a disproportionate share of the novel's action. We could read the book again to check, or we could run a short piece of code to count the number of times each girl's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code. 
 
 | **Step** | &nbsp; |  **Notes** |
-| :---: | :---: | :---: | 
+| :--- | :---: | :--- | 
 | Identify the text to be used as the source for the code | &nbsp; | This will be a text only version of *Little Women*. |  
 | Create a list of the four names whose frequency you want to count | &nbsp; | These will be the variables that the program will need to look for. | 
 | For each instance of each name found, increment the counter for that list member by one | &nbsp; | The code will work through the file sequentially |
