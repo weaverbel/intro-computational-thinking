@@ -23,5 +23,9 @@ nav: Glossary
 | &nbsp; | &nbsp; |
 | **Programming** | Another word for coding. |
 | &nbsp; | &nbsp; |
+| **Value** | In programming, a value is an entity that can be manipulated by a program. It is usually a number (a whole integer, e.g. 10 or a floating point number, e.g. 5.126), a single character, or a string of characters.  |
+| &nbsp; | &nbsp; |
+| **Variable** | In programming, a variable is a kind of 'container' for a value or a range of values that may change as a program runs. |
+| &nbsp; | &nbsp; |
 | **Working with data** | Working with data frequently involves computational thinking. Collecting data, analysing data, and visualising data can all help you break a problem down. |
 
