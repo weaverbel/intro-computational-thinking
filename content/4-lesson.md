@@ -17,7 +17,7 @@ Pseudocode is another useful mechanism.
 ------
 
 
-{% include figure.html img="proc-diagram.png" alt="Computational thinking at work" caption="The computational thinking process in action" width="100%" %}
+{% include figure.html img="loop.png" alt="How loops work" caption="Loops in programming" width="100%" %}
 
 
 
