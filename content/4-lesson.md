@@ -9,7 +9,7 @@ When breaking problems down, pasting sticky notes on a wall, or creating a struc
 
 **Pseudocode** is another useful tool which can be used regardless of what programming language you will eventually use. Pseudocode is a way of documenting each step of a process so that when you begin to code, you have arranged your steps in a logical order. It also proides a sense check if you want to run your idea past people who may not be programmers as no complex coding syntax gets in the way of understanding.
 
-Suppose we loved the book *Little Women*, but we wonder now whether Jo got a disproportionate share of the novel's action. We could read the book again to check, or we could run a short piece of code to count the number of times each girl's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code. 
+Suppose we loved the book *Little Women*, but we wonder now whether Jo got a disproportionate share of the novel's action. We could read the book again to check, or we could run a short piece of code to count the number of times each girl's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code to be sure we have covered all the things we will need to do. 
 
 | **Step** | &nbsp; |  **Notes** |
 | :--- | :---: | :--- | 
@@ -24,7 +24,7 @@ The code that will be used to do this job is an example of a **loop**. Loops all
 
 In the example above, the program will search all the way through the text of *Little Women* adding up all the appearances of the first name in the list (Amy). Then it will go through the text again to do the count for Beth. The same thing will then be done for Jo and Meg respectively, and then the program will report its findings for each name and stop because the list of four names has been exhausted, i.e. the condition has been met. 
 
-{% include figure.html img="loop.png" alt="How loops work" caption="Loops in programming" width="85%" %}
+{% include figure.html img="loop-diagram.png" alt="How loops work" caption="Loops in programming" width="75%" %}
 
 ---------
 
