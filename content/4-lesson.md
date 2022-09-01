@@ -3,11 +3,7 @@ title: Pseudocode
 nav: Four
 ---
 
-#### Pseudocode
-
-When breaking problems down, pasting sticky notes on a wall, or creating a structure diagram on a whiteboard can help visualise the necessary steps. 
-
-**Pseudocode** is another useful tool which can be used regardless of what programming language you will eventually use to automate your work. Pseudocode is a way of documenting each step of a process so that when you begin to code, you have already arranged your steps in a logical order. It also provides a sense check if you want to run your idea past people who may not be programmers. 
+When breaking problems down, **Pseudocode** is another useful tool which can be used regardless of what programming language you will eventually use to automate your work. Pseudocode is a way of documenting each step of a process so that when you begin to code, you have already arranged your steps in a logical order. It also provides a sense check if you want to run your idea past people who may not be programmers. 
 
 Suppose we loved the book *Little Women*, but we wonder now whether Jo got a disproportionate share of the novel's action. We could read the book again to check, or we could run a short piece of code to count the number of times each girl's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code to be sure we have covered all the things we will need to do. 
 
@@ -28,4 +24,4 @@ In the example above, the program will search all the way through the text of *L
 
 ### Practice
 
-Imagine you are designing a something. Create some pseudocode to illustrate the steps.
+Imagine you are designing a process to validate an email address. Create some pseudocode to illustrate the steps.
