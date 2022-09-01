@@ -20,6 +20,7 @@ nav: Resources
 There are many courses on learning to code, whether that be in Python, R, or C++. Find one that suits you.
 
 1. [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
-2. [Software Carpentry](https://software-carpentry.org/)
-3. [The Programming Historian](https://programminghistorian.org/)
-4. [Learn Python](https://www.w3schools.com/python/)
+2. [Introduction to Python](https://docs.google.com/document/d/1T_hp4D2p99mn9xLDwVfhK_OfGQuGaNtWY0eu1kqulEA/edit)
+3. [Software Carpentry](https://software-carpentry.org/)
+4. [The Programming Historian](https://programminghistorian.org/)
+5. [Learn Python](https://www.w3schools.com/python/)
