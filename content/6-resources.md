@@ -10,9 +10,10 @@ nav: Resources
 3. [Computational thinking for high school teachers](https://ctpdonline.org/)
 4. [Introduction to Computational Thinking for Every Educator](https://www.iste.org/professional-development/iste-u/computational-thinking)
 5. [Exploring computational thinking](https://learn.iste.org/d2l/lor/search/search_results.d2l?ou=6606&lrepos=1006)
-6. [Exploring computational thinking](https://edu.google.com/resources/programs/exploring-computational-thinking/)
-7. [What is a digital system?](https://www.digitaltechnologieshub.edu.au/search#/site-search?pageNumber=1&keyword=GoogleCT)
-8. [Computational thinking](https://www.youtube.com/watch?v=dHWmnayy8MY)
+6. [Computational thinking concepts guide](https://docs.google.com/document/d/1Hyb2WKJrjT7TeZ2ATq6gsBhkQjSZwTH-xfpVMFEn2F8/edit)
+7. [Exploring computational thinking](https://edu.google.com/resources/programs/exploring-computational-thinking/)
+8. [What is a digital system?](https://www.digitaltechnologieshub.edu.au/search#/site-search?pageNumber=1&keyword=GoogleCT)
+9. [Computational thinking](https://www.youtube.com/watch?v=dHWmnayy8MY)
 
 #### Learning to code
 
