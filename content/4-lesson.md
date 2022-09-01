@@ -7,11 +7,11 @@ nav: Four
 
 When breaking problems down, pasting sticky notes on a wall, or creating a structure diagram on a whiteboard can help visualise the necessary steps. 
 
-**Pseudocode** is another useful tool which can be used regardless of what programming language you will eventually use. Pseudocode is a way of documenting each step of a process so that when you begin to code, you have arranged your steps in a logical order. It also proides a sense check if you want to run your idea past people who may not be programmers as no complex coding syntax gets in the way of understanding.
+**Pseudocode** is another useful tool which can be used regardless of what programming language you will eventually use to automate your work. Pseudocode is a way of documenting each step of a process so that when you begin to code, you have already arranged your steps in a logical order. It also provides a sense check if you want to run your idea past people who may not be programmers. 
 
 Suppose we loved the book *Little Women*, but we wonder now whether Jo got a disproportionate share of the novel's action. We could read the book again to check, or we could run a short piece of code to count the number of times each girl's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code to be sure we have covered all the things we will need to do. 
 
-| **Step** | &nbsp; |  **Notes** |
+| **Pseudocode step** | &nbsp; |  **Notes** |
 | :--- | :---: | :--- | 
 | 1. Identify the text to be used as the source for the code | &nbsp; | 1. The text only version of *Little Women*. |  
 | 2. Create a list of the 4 names whose frequency you want to count | &nbsp; | 2. The variables the program will look for. | 
