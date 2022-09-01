@@ -3,7 +3,7 @@ title: Pseudocode
 nav: Four
 ---
 
-When breaking problems down, **pseudocode** is another useful tool which can be used regardless of what programming language you will eventually use to automate your work. Pseudocode is a way of documenting each step of a process so that when you begin to code, you have already arranged your steps in a logical order. It also provides a sense check if you want to run your plan past people who may not be programmers. 
+When breaking problems down, **pseudocode** is a useful tool which can be used regardless of what programming language you will eventually use to automate your work. Pseudocode documents each step of a process so that when you begin to code, you will already have arranged your steps in a logical order. Pseudocode also provides a sense check if you want to first run your plan past people who may not be programmers. 
 
 #### Example
 
@@ -22,7 +22,7 @@ In the example above, the program will search all the way through the text of *L
 
 The name values can also be called *variables*, because the value will vary each time the loop runs through the text.
 
-The same piece of code could be used for any countring exercise by changing the list variables and the input source.
+The same piece of code could be re-used for any counting exercise by changing the list variables and the input source.
 
 {% include figure.html img="loop-diagram.png" alt="How loops work" caption="Loops in programming" width="65%" %}
 
@@ -38,4 +38,4 @@ Links to sites that teach coding and other resources on computational thinking a
 
 ### Practice
 
-Imagine you are designing a process to validate an email address. Create some pseudocode to illustrate the steps.
+You know the population of a city. You also know the birth rate and death rate of the city's inhabitants. You have a population target in mind. Imagine you are designing a process to plot how soon you should be able to reach the population target. Create some pseudocode to illustrate the steps.
