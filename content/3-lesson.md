@@ -30,13 +30,6 @@ Programming rarely works in such a linear fashion. Code generally includes branc
 
 {% include figure.html img="workflow.png" alt="Branching code" caption="Branching code" width="90%" %}
 
-#### Learning to program
-
-This lesson should help you prepare to learn to code by understanding the process that coders use to break complex problems down into programmable parts. 
-
-Links on sites that teach coding and other resources on computational thinking are listed in the following section. 
-
----------
 
 #### Practice
 
