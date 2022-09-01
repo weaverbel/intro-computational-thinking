@@ -11,12 +11,10 @@ When breaking problems down, pasting sticky notes on a wall, or creating a struc
 
 Suppose we loved the book *Little Women*, but we wonder now whether Jo got a disproportionate share of the novel's action. We could read the book again to check, or we could run a short piece of code to count the number of times each girl's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code to be sure we have covered all the things we will need to do. 
 
-| **Pseudocode step** | &nbsp; |  **Notes** |
-| :--- | :---: | :--- | 
-| 1. Identify the text to be used as the source for the code | &nbsp; | 1. The text only version of *Little Women*. |  
-| 2. Create a list of the 4 names whose frequency you want to count | &nbsp; | 2. The variables the program will look for. | 
-| 3. For each instance of each name, increment the counter by one | &nbsp; | 3. The code will work through the file sequentially. |
-| 4. Output the final counts of each variable. | &nbsp; | 4. Output could be printed to the screen or to a file. |
+{% include figure.html img="pseudocode.png" alt="Pseudocode steps" caption="Pseudocode steps" width="65%" %}
+
+- The text only version of *Little Women* is the file the code will process.   
+- The four names, Amy, Beth, Jo and Meg, are the list variables the program will look for and count.  
 
 ---------
 
@@ -24,7 +22,7 @@ The code that will be used to do this job is an example of a **loop**. Loops all
 
 In the example above, the program will search all the way through the text of *Little Women* adding up all the appearances of the first name in the list (Amy). Then it will go through the text again to do the count for Beth. The same thing will then be done for Jo and Meg respectively, and then the program will report its findings for each name and stop because the list of four names has been exhausted, i.e. the condition has been met. 
 
-{% include figure.html img="loop-diagram.png" alt="How loops work" caption="Loops in programming" width="75%" %}
+{% include figure.html img="loop-diagram.png" alt="How loops work" caption="Loops in programming" width="65%" %}
 
 ---------
 
