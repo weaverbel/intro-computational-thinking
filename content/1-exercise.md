@@ -27,7 +27,7 @@ Let's add up the third and the third last numbers, i.e. `198 + 3`. The answer is
 
 Using our second step - *Pattern Recognition* - we can now spot a pattern, i.e. that each pair of numbers appears to add up to `201`.
 
-{% include figure.html img="pattern-spot.png" alt="Spotting a pattern" caption="Spotting a pattern" width="25%" %}
+{% include figure.html img="word-count.png" alt="Spotting a pattern" caption="Spotting a pattern" width="25%" %}
 
 If we follow this same process with **all** the numbers between 1 and 200, we will end up with **100 pairs**, each of which will add up to `201`.
 
