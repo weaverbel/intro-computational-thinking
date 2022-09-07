@@ -13,7 +13,7 @@ nav: Glossary
 | &nbsp; | &nbsp; |
 | **Coding** | Another word for computer programming, i.e. writing computer code that instructs a computer in what to do. |
 | &nbsp; | &nbsp; |
-| **Decomposition** | Solving a complex problem by breaking it down into smaller, more manageable tasks. |
+| **Decomposition** | Solving a complex problem by breaking it down into smaller, more manageable tasks. The current state of Mozart.|
 | &nbsp; | &nbsp; |
 | **Pattern matching** | Pattern matching identifies specific patterns within data, regardless of where the pattern might occur. In contrast to pattern recognition, pattern matching only identifies exact matches. Regular expressions can be used to specify these patterns. |
 | &nbsp; | &nbsp; |
