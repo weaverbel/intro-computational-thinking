@@ -5,6 +5,8 @@ nav: Four
 
 When breaking problems down, **pseudocode** is a useful tool which can be used regardless of what programming language you will eventually use to automate your work. Pseudocode documents each step of a process so that when you begin to code, you will already have arranged your steps in a logical order. Pseudocode also provides a sense check if you want to first run your plan past people who may not be programmers. 
 
+Hello World!
+
 #### Example
 
 Suppose we loved the book *Little Women*, but we wonder now whether Jo got a disproportionate share of the novel's action. We could flick through the book again to check (which would be very slow), or we could run a short piece of code to count the number of times each girl's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code to be sure we have covered all the things we will need to do. 
