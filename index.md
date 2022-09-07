@@ -7,8 +7,6 @@ layout: default
 
 {% include figure.html img="stickies.jpg" alt="Sticky notes on a wall"  width="65%" %}
 
-*Photo by [Alex Lion](https://unsplash.com/es/@alexlionco) on [Unsplash](https://unsplash.com/).*
-
 #### Topic and aims
 
 Once you have completed this introductory workshop on computational thinking, you should be able to:
@@ -30,6 +28,7 @@ A pen and paper is all you will need to complete this workshop. All the practice
 
 No prior knowledge is assumed. Use the [glossary](content/4-glossary.md) to familiarise yourself with the meaning of terms like abstraction and algorithm. 
 
+*Photo by [Alex Lion](https://unsplash.com/es/@alexlionco) on [Unsplash](https://unsplash.com/).*
 
 {% include toc.html %}
 
