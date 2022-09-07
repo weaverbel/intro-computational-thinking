@@ -7,6 +7,8 @@ Computational thinking is an essential prerequisite for anyone wanting to learn 
 
 Many different definitions of computational thinking exist. However, computational thinking can be described as a set of strategies to enable people to solve problems, especially complex ones.
 
+This is Ronna testing!
+
 The BBC (1) provides a good definition:
 
 *"Computers can be used to help us solve problems. However, before a problem can be tackled, the problem itself and the ways in which it could be solved need to be understood. Computational thinking allows us to do this ... (it) allows us to take a complex problem, understand what the problem is and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand."*
