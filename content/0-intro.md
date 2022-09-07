@@ -5,6 +5,8 @@ nav: Intro
 
 Computational thinking is an essential prerequisite for anyone wanting to learn to program computers and write code.
 
+It's not rocket science !
+
 Many different definitions of computational thinking exist. However, computational thinking can be described as a set of strategies to enable people to solve problems, especially complex ones.
 
 The BBC (1) provides a good definition:
