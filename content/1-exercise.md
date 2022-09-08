@@ -3,7 +3,7 @@ title: Exercise
 nav: One
 ---
 
-In this exercise, we will see how computational thinking can help us add up all the numbers between 1 and 200 in our heads, i.e. `1 + 2 + 3 + 4 + 5 + 6 + 7` and so on. We should be able to do this in less than a minute. 
+In this exercise, we will see how computational thinking can help us add up all the numbers between 1 and 200 in our heads, i.e. `1 + 2 + 3 + 4` and so on. We should be able to do this in less than a minute. 
 
 Seems impossible?
 
