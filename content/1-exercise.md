@@ -9,7 +9,7 @@ Seems impossible?
 
 It's not.
 
-Using the first computational thinking step - *Decomposition* - we break the problem up into smaller pieces. Rather than trying to add up numbers randomly, let's start by simply adding two of them.
+Using the first computational thinking step - *Decomposition* - we break the problem up into smaller pieces. Rather than trying to add the numbers up sequentially, which would be difficult to do in your head, let's approach the task in a different way.
 
 ### Decomposition
 
