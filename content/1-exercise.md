@@ -13,7 +13,7 @@ Using the first computational thinking step - *Decomposition* - we break the pro
 
 ### Decomposition
 
-Let's begin at each end of the 1-200 sequence by adding up the first (1) and last (200) numbers.
+Let's begin at each end of the 1-200 sequence by adding up the first and last numbers.
 
 What is `200 + 1`? The answer is `201`.
 
