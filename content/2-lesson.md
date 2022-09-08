@@ -24,11 +24,11 @@ Subconsciously, we practise computational thinking every day of our lives. As Je
 
 Every time we need to plan to do something, we use some of the steps of computational thinking such as problem breakdown, pattern recognition and developing algorithms. 
 
-Project managers use computational thinking to plan complex activities. 
+- Project managers use computational thinking to plan complex activities. 
 
-Epidemiologists use it to identify patterns to predict how a disease outbreak will spread. 
+- Epidemiologists use it to identify patterns to predict how a disease outbreak will spread. 
 
-Parents use it to juggle work, parenting, community responsibilities and housework.
+- Parents use it to juggle work, parenting, community responsibilities and housework.
 
 #### Breaking problems down
 
