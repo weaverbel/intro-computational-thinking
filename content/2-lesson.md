@@ -31,13 +31,9 @@ Every time we need to plan to do something, we use some of the steps of computat
 
 - Lost bushwalkers can use it to try to find their way out of the bush.
 
-#### Breaking problems down
+#### Breaking problems down with structure diagrams
 
-When trying to solve problems, it is essential to break them down into their constituent parts. 
-
-Pasting sticky notes on a wall, or creating a structure diagram on a whiteboard can both help to visualise the necessary steps. 
-
-#### Structure diagrams
+When trying to solve problems, it is essential to break them down into their constituent parts. Pasting sticky notes on a wall, or creating a structure diagram on a whiteboard can both help to visualise the necessary steps. 
 
 Structure diagrams allow you to plan problem breakdown visually. At the top should be the objective, and the steps underneath should start with high level considerations. These high level considerations can then be broken down into smaller and smaller steps.
 
