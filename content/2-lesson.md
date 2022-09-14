@@ -43,7 +43,7 @@ Structure diagrams allow you to plan problem breakdown visually. At the top shou
 
 In the bushwalking scenario, the group of four people have to try to solve the problem of being lost. This diagram is the very start of their thinking about their immediate needs. 
 
-{% include figure.html img="struct-1.png" alt="Structure diagram" caption="Basic structure diagram" width="100%" %}
+{% include figure.html img="structure.png" alt="Structure diagram" caption="Basic structure diagram" width="100%" %}
 
 ---------
 
