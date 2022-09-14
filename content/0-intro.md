@@ -15,11 +15,11 @@ The BBC provides a good definition:
 
 #### Problem scenario
 
-You and three friends are out on an afternoon bushwalk. Your plan was only to go for a short hike, so no-one has brought along an emergency beacon, and all mobile phones were left in the car. Everyone has a water bottle, though these are no longer full, but no-one brought a map as the trail you were planning to follow is clearly marked and signposted. 
+Four friends are out on an afternoon bushwalk. Their plan was only to go for a short hike, so no-one has brought along an emergency beacon, and all mobile phones were left in the car. Everyone has a water bottle, though these are no longer full, but no-one brought a map as the trail they were planning to follow is clearly marked and signposted. 
 
-However, you all left the trail together in a rush when you heard a distant cry for help. After some fast walking through dense bush trying and failing to reach whoever made that distress call, you realise quite suddenly that you are lost. The cries sound much more distant now, but when you retrace your steps to what you thought was the path to try a different direction, you cannot find it. The sun is starting to sink, it is growing colder, you are now hopelessly lost and everyone is starting to feel hungry ... 
+However, they all left the trail together in a rush when they heard a distant cry for help. After some fast walking through dense bush trying and failing to reach whoever made that distress call, they realise quite suddenly that they are lost. The cries sound much more distant now, but when they retrace their steps to what they thought was the path to try a different direction, they cannot find it. The sun is starting to sink, it is growing colder, they are now hopelessly lost and everyone is starting to feel hungry ... 
 
-*So what do you do?*
+*So what do they do?*
 
 {% include figure.html img="arrowing.png" alt="Arrows pointing different ways" width="40%" %}
 
