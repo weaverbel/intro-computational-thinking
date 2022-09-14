@@ -30,7 +30,9 @@ There are 4 essential components of computational thinking:
 - **Algorithms** – developing step-by-step solutions to each part of the problem
 - **Abstraction** – abstracting the important detail to make a solution reusable, possibly by creating processes or mathematical formulae 
 
-Professor Jeannette Wing (2) raised computational thinking as an important issue for researchers in a 2006 paper. She stated, *"Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or machine, or more generally, by combinations of humans and machines."* Wing believes that computational thinking is just as important a skill for school children to learn as reading, writing and arithmetic. Increasingly, schools are including computational thinking in school curricula.
+Professor Jeannette Wing (2) raised computational thinking as an important issue for researchers in a 2006 paper. She stated, *"Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or machine, or more generally, by combinations of humans and machines."* 
+
+Wing believes that computational thinking is just as important a skill for school children to learn as reading, writing and arithmetic. Increasingly, schools are including computational thinking in school curricula.
 
 In the next exercise, we will see each step at work to solve a maths problem.
 
