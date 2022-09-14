@@ -38,4 +38,4 @@ Links to sites that teach coding and other resources on computational thinking a
 
 ### Practice
 
-You know the population of a city. You also know the birth rate and death rate of the city's inhabitants. You have a population target in mind. Imagine you are designing a process to plot how soon you should be able to reach the population target. Create some pseudocode to illustrate the steps.
+Your organisation is aiming to register attendees for an event. Past attendees will already have a profile on your system, so one step is to check whether a would-be registrant already has a profile, or will need to register for a new one. New users will also need to indicate whether they are over 18. You need to capture and verify the email address of new registrants. Create some pseudocode to list the steps of this process.
