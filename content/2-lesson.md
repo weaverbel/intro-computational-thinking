@@ -29,6 +29,8 @@ Every time we need to plan to do something, we use some of the steps of computat
 
 - Parents use it to juggle work, parenting, community responsibilities and housework.
 
+- Lost bushwalkers can use it to try to find their way out of the bush.
+
 #### Breaking problems down
 
 When trying to solve problems, it is essential to break them down into their constituent parts. 
@@ -39,12 +41,12 @@ Pasting sticky notes on a wall, or creating a structure diagram on a whiteboard 
 
 Structure diagrams allow you to plan problem breakdown visually. At the top should be the objective, and the steps underneath should start with high level considerations. These high level considerations can then be broken down into smaller and smaller steps.
 
-In the example below, a group of four people have survived a major nuclear accident. They do not know how many other people might have survived, or what kinds of conditions they are facing. They have to work out how they are going to survive. The diagram is the start of their thinking about their immediate needs. 
+In the bushwalking scenario, the group of four people have to try to solve the problem of being lost. This diagram is the start of their thinking about their immediate needs. 
 
-{% include figure.html img="struc-diagram.png" alt="Structure diagram" caption="Sample structure diagram" width="100%" %}
+{% include figure.html img="struct-1.png" alt="Structure diagram" caption="Basic structure diagram" width="100%" %}
 
 ---------
 
 ### Practice
 
-Imagine you have invited three friends to your house for lunch. Draw a structure diagram of all the things you would need to consider in your plan to make this happen, such as location, seating, recipes, drinks, table settings and so on.
+Imagine that night is now falling fast, and our friends are still stuck in the bush. Add some more detail to the structure diagram to help them survive the night.
