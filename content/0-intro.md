@@ -11,7 +11,7 @@ The BBC provides a good definition:
 
 *"Computers can be used to help us solve problems. However, before a problem can be tackled, the problem itself and the ways in which it could be solved need to be understood. Computational thinking allows us to do this ... (it) allows us to take a complex problem, understand what the problem is and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand."*
 
-{% include figure.html img="arrows.png" alt="Arrows pointing different ways" width="15%" %}
+{% include figure.html img="arrows.png" alt="Arrows pointing different ways" width="10%" %}
 
 #### Problem scenario
 
@@ -20,6 +20,8 @@ You and three friends are out on an afternoon bushwalk. Your plan was only to go
 However, you all left the trail together in a rush when you heard a distant cry for help. After some fast walking through dense bush trying and failing to reach whoever made that distress call, you realise quite suddenly that you are lost. The cries sound much more distant now, but when you retrace your steps to what you thought was the path to try a different direction, you cannot find it. The sun is starting to sink, it is growing colder, you are now hopelessly lost and everyone is starting to feel hungry ... 
 
 *So what do you do?*
+
+{% include figure.html img="arrows.png" alt="Arrows pointing different ways" width="10%" %}
 
 #### Breaking down a complex problem
 
@@ -34,11 +36,13 @@ There are 4 essential components of computational thinking:
 - **Algorithms** – developing step-by-step solutions to each part of the problem
 - **Abstraction** – abstracting the important detail to make a solution reusable, possibly by creating processes or mathematical formulae 
 
+-------
+
 Professor Jeannette Wing raised computational thinking as an important issue for researchers in a 2006 paper. She stated, *"Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or machine, or more generally, by combinations of humans and machines."* 
 
 Wing believes that computational thinking is just as important a skill for school children to learn as reading, writing and arithmetic. Increasingly, schools are including computational thinking in school curricula.
 
-Our friends in the bush are still in the shouting, blaming and arguing stage of their prredicament, so while they are occupied in **NOT** solving their problem, we will look at computational thinking in a little more detail and examine how we can use each step to solve a maths problem.
+Our friends in the bush are still in the shouting, blaming and squabbling stage of their prredicament, so while they are occupied in **NOT** solving their problem, we will look at computational thinking in a little more detail and examine how we can use each step to solve a maths problem.
 
 -------------
 
