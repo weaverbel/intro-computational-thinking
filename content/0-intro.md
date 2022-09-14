@@ -44,6 +44,8 @@ Professor Jeannette Wing raised computational thinking as an important issue for
 
 Wing believes that computational thinking is just as important a skill for school children to learn as reading, writing and arithmetic. Increasingly, schools are including computational thinking in school curricula.
 
+-------------
+
 Our friends in the bush are still in the shouting, blaming and squabbling stage of their prredicament, so while they are occupied in **NOT** solving their problem, we will look at computational thinking in a little more detail and examine how we can use each step to solve a maths problem.
 
 -------------
