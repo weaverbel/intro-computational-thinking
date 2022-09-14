@@ -46,7 +46,7 @@ Wing believes that computational thinking is just as important a skill for schoo
 
 -------------
 
-Our friends in the bush are still in the shouting, blaming and squabbling stage of their prredicament, so while they are occupied in **NOT** solving their problem, we will look at computational thinking in a little more detail and examine how we can use each step to solve a maths problem.
+Our friends in the bush are still in the shouting, blaming and squabbling stage of their predicament, so while they are occupied in **NOT** solving their problem, we will look at computational thinking in a little more detail and examine how we can use each step to solve a maths problem.
 
 -------------
 
