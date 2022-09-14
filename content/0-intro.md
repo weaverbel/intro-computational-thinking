@@ -11,7 +11,13 @@ The BBC (1) provides a good definition:
 
 *"Computers can be used to help us solve problems. However, before a problem can be tackled, the problem itself and the ways in which it could be solved need to be understood. Computational thinking allows us to do this ... (it) allows us to take a complex problem, understand what the problem is and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand."*
 
-Professor Jeannette Wing (2) raised computational thinking as an important issue for researchers in a 2006 paper. She stated, *"Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or machine, or more generally, by combinations of humans and machines."* Wing believes that computational thinking is just as important a skill for school children to learn as reading, writing and arithmetic. Increasingly, schools are including computational thinking in school curricula.
+#### Problem scenario
+
+You and three friends are out on a bushwalk. Your plan was only to go for a short hike, so no-one has brought along an emergency beacon, and all mobile phones were left in the car. Everyone has a water bottle, but no-one has a map as the trail you were planning to follow is clearly marked and signposted. However, you all left the trail in a rush when you heard a distant cry for help and quite suddenly you realise that you are lost. The cries sound more distant now, but when you retrace your steps to what you thought was the path to try to strike out in a different direction, you cannot find it. The sun is starting to sink, it is growing colder, everyone is starting to feel hungry so what do you do?
+
+#### Breaking down a complex problem
+
+This is a complex problem. As we progress through this lesson, we will learn how to break this problem down so that we can start to solve it. Let's first come to grips with what computational thinking is. 
 
 {% include figure.html img="comp-think.png" alt="The four components of computational thinking" caption="The four components of computational thinking" width="60%" %}
 
@@ -21,6 +27,8 @@ There are 4 essential components of computational thinking:
 - **Pattern recognition** – looking for similarities within a problem or with other problems so that past solutions or knowledge can be re-used 
 - **Algorithms** – developing step-by-step solutions to each part of the problem
 - **Abstraction** – abstracting the important detail to make a solution reusable, possibly by creating processes or mathematical formulae 
+
+Professor Jeannette Wing (2) raised computational thinking as an important issue for researchers in a 2006 paper. She stated, *"Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or machine, or more generally, by combinations of humans and machines."* Wing believes that computational thinking is just as important a skill for school children to learn as reading, writing and arithmetic. Increasingly, schools are including computational thinking in school curricula.
 
 In the next exercise, we will see each step at work to solve a maths problem.
 
