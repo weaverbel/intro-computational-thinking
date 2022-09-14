@@ -30,6 +30,7 @@ Programming rarely works in such a linear fashion. Code generally includes branc
 
 {% include figure.html img="workflow.png" alt="Branching code" caption="Branching code" width="90%" %}
 
+----------------
 
 #### Practice
 
