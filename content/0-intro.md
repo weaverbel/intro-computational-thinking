@@ -5,9 +5,7 @@ nav: Intro
 
 Computational thinking is an essential prerequisite for anyone wanting to learn to program computers and write code.
 
-Many different definitions of computational thinking exist. However, computational thinking can be described as a set of strategies to enable people to solve problems, especially complex ones.
-
-The BBC provides a good definition:
+Many different definitions of computational thinking exist. However, computational thinking can be described as a set of strategies to enable people to solve problems, especially complex ones. The BBC provides a good definition:
 
 *"Computers can be used to help us solve problems. However, before a problem can be tackled, the problem itself and the ways in which it could be solved need to be understood. Computational thinking allows us to do this ... (it) allows us to take a complex problem, understand what the problem is and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand."*
 
@@ -19,11 +17,15 @@ The BBC provides a good definition:
 
 Four friends are out on an afternoon bushwalk. Their plan was to go only for a short hike, so no-one has brought along an emergency beacon, and all mobile phones were left in the car. Everyone has a water bottle, though these are no longer full, but no-one brought a map as the trail they were planning to follow is clearly marked and signposted. 
 
-However, they all left the trail together in a great rush when they heard a distant cry for help. After some fast walking through dense bush trying and failing to reach whoever made that distress call, they realise quite suddenly that they are lost. The cries sound much more distant now, but when they retrace their steps to what they thought was the path to try a different direction, they cannot find it. The sun is starting to sink, it is growing colder, they are now hopelessly lost and everyone is starting to feel hungry ... 
+However, they all left the trail together in a great rush when they heard a distant cry for help. After some fast walking through dense bush trying and failing to reach whoever made that distress call, they realise quite suddenly that they are lost. The cries sound much more distant now, but when they retrace their steps to what they thought was the path to try a different direction, they cannot find it. 
+
+Now the sun is starting to sink, it is growing colder, they are now hopelessly lost, and everyone is starting to feel hungry ... 
 
 *So what do they do?*
 
 {% include figure.html img="arrowing.png" alt="Arrows pointing different ways" width="40%" %}
+
+---------
 
 #### Breaking down a complex problem
 
