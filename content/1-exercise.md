@@ -23,9 +23,9 @@ Let's add up the third and the third last numbers, i.e. `198 + 3`. The answer is
 
 -------
 
-### Pattern Recognition
+### Pattern recognition
 
-Using our second step - *Pattern Recognition* - we can now spot a pattern, i.e. that each pair of numbers appears to add up to `201`.
+Using our second step - *Pattern recognition* - we can now spot a pattern, i.e. that each pair of numbers appears to add up to `201`.
 
 {% include figure.html img="word-count.png" alt="Spotting a pattern" caption="Spotting a pattern" width="25%" %}
 
