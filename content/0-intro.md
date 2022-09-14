@@ -33,7 +33,7 @@ This is a complex problem. As we progress through this lesson, we will learn how
 
 {% include figure.html img="comp-think.png" alt="The four components of computational thinking" caption="The four components of computational thinking" width="60%" %}
 
-There are 4 essential components of computational thinking:
+There are four essential components of computational thinking:
 
 - **Decomposition** – breaking a problem down into more manageable parts so that solutions can be found for each
 - **Pattern recognition** – looking for similarities within a problem or with other problems so that past solutions or knowledge can be re-used 
