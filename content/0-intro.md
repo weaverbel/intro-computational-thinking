@@ -13,7 +13,9 @@ The BBC (1) provides a good definition:
 
 #### Problem scenario
 
-You and three friends are out on a bushwalk. Your plan was only to go for a short hike, so no-one has brought along an emergency beacon, and all mobile phones were left in the car. Everyone has a water bottle, but no-one has a map as the trail you were planning to follow is clearly marked and signposted. However, you all left the trail in a rush when you heard a distant cry for help and quite suddenly you realise that you are lost. The cries sound more distant now, but when you retrace your steps to what you thought was the path to try to strike out in a different direction, you cannot find it. The sun is starting to sink, it is growing colder, everyone is starting to feel hungry so what do you do?
+You and three friends are out on am afternoon bushwalk. Your plan was only to go for a short hike, so no-one has brought along an emergency beacon, and all mobile phones were left in the car. Everyone has a water bottle, though these are no longer full, but no-one has a map as the trail you were planning to follow is clearly marked and signposted. However, you all left the trail together in a rush when you heard a distant cry for help. After some fast walking through dense bush to try to reach whover has called out, you realise quite suddenly that you are lost. The cries sound more distant now, but when you retrace your steps to what you thought was the path to try to strike out in a different direction, you cannot find it. The sun is starting to sink, it is growing colder, you are now hopelessly lost and everyone is starting to feel hungry ... 
+
+*So what do you do?*
 
 #### Breaking down a complex problem
 
