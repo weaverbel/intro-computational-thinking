@@ -40,6 +40,8 @@ There are 4 essential components of computational thinking:
 
 Professor Jeannette Wing raised computational thinking as an important issue for researchers in a 2006 paper. She stated, *"Informally, computational thinking describes the mental activity in formulating a problem to admit a computational solution. The solution can be carried out by a human or machine, or more generally, by combinations of humans and machines."* 
 
+{% include figure.html img="brain.png" alt="brain" width="10%" %}
+
 Wing believes that computational thinking is just as important a skill for school children to learn as reading, writing and arithmetic. Increasingly, schools are including computational thinking in school curricula.
 
 Our friends in the bush are still in the shouting, blaming and squabbling stage of their prredicament, so while they are occupied in **NOT** solving their problem, we will look at computational thinking in a little more detail and examine how we can use each step to solve a maths problem.
