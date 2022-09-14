@@ -3,7 +3,7 @@ title: Pseudocode
 nav: Four
 ---
 
-When breaking problems down, **pseudocode** is a useful tool which can be used regardless of what programming language you will eventually use to automate your work. Pseudocode documents each step of a process so that when you begin to code, you will already have arranged your steps in a logical order. Pseudocode also provides a sense check if you want to first run your plan past people who may not be programmers. 
+When breaking problems down, **pseudocode** is a useful tool which can be used regardless of what programming language you will eventually use to automate your process. Pseudocode documents each step of a process so that when you begin to code, you will already have arranged your steps in a logical order. Pseudocode also provides a sense check if you want to first run your plan past people who may not be programmers. 
 
 #### Example
 
