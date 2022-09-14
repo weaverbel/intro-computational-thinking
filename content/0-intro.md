@@ -11,6 +11,8 @@ The BBC (1) provides a good definition:
 
 *"Computers can be used to help us solve problems. However, before a problem can be tackled, the problem itself and the ways in which it could be solved need to be understood. Computational thinking allows us to do this ... (it) allows us to take a complex problem, understand what the problem is and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand."*
 
+{% include figure.html img="arrows.png" alt="Arrows pointing different ways" caption="Arrows pointing different ways" width="20%" %}
+
 #### Problem scenario
 
 You and three friends are out on an afternoon bushwalk. Your plan was only to go for a short hike, so no-one has brought along an emergency beacon, and all mobile phones were left in the car. Everyone has a water bottle, though these are no longer full, but no-one has a map as the trail you were planning to follow is clearly marked and signposted. However, you all left the trail together in a rush when you heard a distant cry for help. After some fast walking through dense bush trying and failing to reach whoever made that distress cry, you realise quite suddenly that you are lost. The cries sound much more distant now, but when you retrace your steps to what you thought was the path to try to strike out in a different direction, you cannot find it. The sun is starting to sink, it is growing colder, you are now hopelessly lost and everyone is starting to feel hungry ... 
