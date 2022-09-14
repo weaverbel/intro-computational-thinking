@@ -4,7 +4,7 @@ nav: Three
  
 ---
 
-*Decomposition* is really important in programming. The computer must be told precisely what to do, and in what order, so problems must be broken down into discrete parts and each section coded appropriately.
+*Decomposition* is really important in problem breakdown, but especially so in programming. The computer must be told precisely what to do, and in what order, so problems must be broken down into discrete parts and each section coded appropriately.
 
 Suppose we want to find the ten words most commonly used in a text. How would we go about that?
 
@@ -16,7 +16,7 @@ While there are many different ways to do this task, this is one way, where all 
 
 First we save the file in `.txt` format to eliminate all the "smart" formatting added in by programs like Word. Then we progressively eliminate everything that is not a word, i.e. punctuation. 
 
-Converting all the words to lower case means we end up with a single version of a word - not two. This is important because, to a computer, `Word` does not equal `word` - it treats them as two separate entities. 
+Converting all the words to lower case means we end up with a single version of a word - not two. This is important because, to a computer, `Word` (starting with a  upper case letter) does not equal `word` (starting with a lower case letter) - it treats them as two separate entities. 
 
 By replacing spaces with new line characters, we end up with each word on its own line, which makes them easy to sort and count.
 
@@ -33,4 +33,4 @@ Programming rarely works in such a linear fashion. Code generally includes branc
 
 #### Practice
 
-You have been asked to establish a decentralised contact tree for your local walking group. Draw a structure diagram for the steps you would take to achieve that. 
+Our friends have finally made it out of the bush and back to civilisation. Their experience, while unpleasant, has not put them off bushwalking. Draw a structure diagram of the planning they need to do for next time to avert disaster.
