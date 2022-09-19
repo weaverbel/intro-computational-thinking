@@ -40,6 +40,14 @@ In the process of doing the above, we actually made a few blunders. We accidenta
 
 Write some pseudocode for that step of the process.
 
+-------------------------------
+
+#### Operationalising tasks
+
+Suppose you write that script and it works a treat. Why not get it to run every month to tidy up folders that invariably become messy over time, e.g., your Downloads folder? Or, suppose you use a file naming convention that starts with `YYYY-MM-DD`. Why not use the script to run annually to organise your documents by year? 
+
+----------------------
+
 #### Learning to program
 
 This lesson should help you prepare to learn to code by understanding the process that coders use to break complex problems down into programmable parts. 
