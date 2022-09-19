@@ -30,13 +30,13 @@ The same piece of code could be re-used for any counting exercise by changing th
 
 #### Practice 1a. Tidying up
 
-We have a large folder of files left over from a project that is now finished. The files are all sitting in the one folder which makes it hard to navigate. We want to archive the project and its files, but in the process, we want to create folders by file type, so that anyone wanting to access just the documents or the images can do so easily. We also want to delete any temporary files from the folder or files with no file extensions. New folders will need to be created and the files moved into them, although we want to make sure any hidden files are excluded from the move. 
+We have a large folder of files left over from a project that is now finished. The files are all sitting in the one folder which makes it hard to navigate. We want to archive the project and its files, but in the process, we want to create folders by file type, e.g., `.pdf`, `.jpg`, `.doc`, so that anyone wanting to access just particular file types can do so easily. We also want to delete any temporary files from the folder as well as removing files with no file extensions. New folders will need to be created and the different files moved into them, although we want to make sure any hidden files are excluded from the move. 
 
 Write some pseudocode of how you might automate this process.
 
 #### Practice 1b. Tidying up more carefully
 
-In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we didn't want to remove because they were mislabelled or were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again. One way to do that is to check we have coded the job correctly before we finally execute the automation. Therefore we need to include a step that mimics what would happen if we executed the script on the files, e.g., by printing to the screen the filenames to be moved or deleted rather than deleting or moving them. That way we can check we are working on the correct files and only run the actual tasks once we are sure we have things right.
+In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we didn't want to remove because they were mislabelled or were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again. One way to do that is to check we have coded the job correctly before we finally execute the automation. Therefore we need to include a step that mimics what would happen if we executed the script on the files, perhaps by printing to the screen the filenames to be moved or deleted rather than *actually* deleting or moving them at this stage. That way we can check we are working on the correct files and only run the actual automation workflow once we are sure we have everything right.
 
 Write some pseudocode for that step of the process.
 
