@@ -40,17 +40,9 @@ In the process of doing the above, we actually made a few blunders. We accidenta
 
 Write some pseudocode for that step of the process.
 
--------------------------------
-
-#### Operationalising tasks
-
-Suppose you write that script and it works a treat. Why not get it to run every month to tidy up folders that invariably become messy over time, e.g., your Downloads folder? Or, suppose you use a file naming convention that starts with `YYYY-MM-DD`. Why not use the script to run annually to organise your documents by year? 
-
-----------------------
-
 #### Practice 2. Managing incoming data
 
-Suppose you have a number of acoustic listening devices set up in the bush. Every day, you receive an email from each device with a data file recording that day's activity. In order to analyse the data from the devices, all the separate daily need to be combined weekly into a single file, with each device ID listed as a column in the data file to identify their locations. In order to analyse the data over time, you also need to append each weekly file digest to the existing, now very large data file. In order to forestall any issues, you also need to create a backup of that data file before adding anything new, and send a copy of that back up file to your cloud storage account. Once the new data has been appended, you need to run software against the file to ensure the integrity of the data.
+Suppose you have a number of acoustic listening devices set up in the bush. Every day, you receive an email from each device with a data file recording that day's activity. In order to analyse the data from the devices, all the separate daily data files need to be combined weekly into a single file, with each device ID listed as a column in the combined data file to identify their locations. In order to analyse the data over time, you also need to append each weekly file digest to the existing, now very large main data file. In order to forestall any issues, and safeguard the integrity of the data, you also need to create a backup of that data file before adding anything new, and send a copy of that back up file to your cloud storage account. Once the new data has been appended, you need to rename the file with today's date as part of your file naming convention, and run software against the file to ensure the integrity of the data, e.g., to check that no data is missing (which might indicate a malfunctioning device).
 
 Write some pseudocode of how you might automate this process.
 
@@ -67,3 +59,5 @@ Links to sites that teach coding and other resources on computational thinking a
 ### Practice
 
 Your organisation is aiming to register attendees for an event. Past attendees will already have a profile on your system, so one step is to check whether a would-be registrant already has a profile, or will need to register for a new one. New users will also need to indicate whether they are over 18. You need to capture and verify the email address of new registrants. Create some pseudocode to list the steps of this process.
+
+Suppose you write that file movement script and it works a treat. Why not get it to run every month to tidy up folders that invariably become messy over time, e.g., your Downloads folder? Or, suppose you use a file naming convention that starts with `YYYY-MM-DD`. Why not use the script to run annually to organise your documents by year? 
