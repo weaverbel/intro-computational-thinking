@@ -36,7 +36,7 @@ Write some pseudocode of how you might automate this process.
 
 #### Practice 2. Tidying up more carefully
 
-In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we didn't want to remove because they were mislabelled or were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again. One way to do that is to check we have coded the job correctly before we finally execute the automation. Therefore we need to include a step that mimics what would happen if we exexcuted the script on the files, e.g., by printing to the screen the filenames to be moved or deleted rather than actually deleting or moving them. That way we can check we are working on the correct files and only run the actual tasks once we are sure we have it right.
+In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we didn't want to remove because they were mislabelled or were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again. One way to do that is to check we have coded the job correctly before we finally execute the automation. Therefore we need to include a step that mimics what would happen if we executed the script on the files, e.g., by printing to the screen the filenames to be moved or deleted rather than deleting or moving them. That way we can check we are working on the correct files and only run the actual tasks once we are sure we have things right.
 
 Write some pseudocode for that step of the process.
 
