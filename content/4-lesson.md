@@ -28,6 +28,18 @@ The same piece of code could be re-used for any counting exercise by changing th
 
 ---------
 
+#### Practice 1. Tidying up
+
+We have a large folder of files left over from a project that is now finished. The files are all sitting in the one folder which makes it hard to navigate. We want to archive the project and its files, but in the process, we want to create folders by file type, so that anyone wanting to access just the documents or the images can do so easily. We also want to delete any temporary files from the folder or files with no file extensions. New folders will need to be created and the files moved into them, although we want to make sure any hidden files are excluded from the move. 
+
+Write some pseudocode of how you might automate this process.
+
+#### Practice 2. Tidying up more carefully
+
+In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we didn't want to remove because they were mislabelled or were missing a file extension. Because this automation is complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes agin. One way to do that is to check we have coded it correctly before we finally execute the automation. Therefore we need to include a step that mimics what would happen if we exexcuted the script on the files, e.g. by printing the filenames to be moved or deleted to the screen rather than actually deleting or moving them. That way we can check we are working on the correct files.
+
+Write some pseudocode for that step of the process.
+
 #### Learning to program
 
 This lesson should help you prepare to learn to code by understanding the process that coders use to break complex problems down into programmable parts. 
