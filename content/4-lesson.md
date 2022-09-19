@@ -28,13 +28,13 @@ The same piece of code could be re-used for any counting exercise by changing th
 
 ---------
 
-#### Practice 1. Tidying up
+#### Practice 1a. Tidying up
 
 We have a large folder of files left over from a project that is now finished. The files are all sitting in the one folder which makes it hard to navigate. We want to archive the project and its files, but in the process, we want to create folders by file type, so that anyone wanting to access just the documents or the images can do so easily. We also want to delete any temporary files from the folder or files with no file extensions. New folders will need to be created and the files moved into them, although we want to make sure any hidden files are excluded from the move. 
 
 Write some pseudocode of how you might automate this process.
 
-#### Practice 2. Tidying up more carefully
+#### Practice 1b. Tidying up more carefully
 
 In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we didn't want to remove because they were mislabelled or were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again. One way to do that is to check we have coded the job correctly before we finally execute the automation. Therefore we need to include a step that mimics what would happen if we executed the script on the files, e.g., by printing to the screen the filenames to be moved or deleted rather than deleting or moving them. That way we can check we are working on the correct files and only run the actual tasks once we are sure we have things right.
 
@@ -47,6 +47,14 @@ Write some pseudocode for that step of the process.
 Suppose you write that script and it works a treat. Why not get it to run every month to tidy up folders that invariably become messy over time, e.g., your Downloads folder? Or, suppose you use a file naming convention that starts with `YYYY-MM-DD`. Why not use the script to run annually to organise your documents by year? 
 
 ----------------------
+
+#### Practice 2. Managing incoming data
+
+Suppose you have a number of acoustic listening devices set up in the bush. Every day, you receive an email from each device with a data file recording that day's activity. In order to analyse the data from the devices, all the separate daily need to be combined weekly into a single file, with each device ID listed as a column in the data file to identify their locations. In order to analyse the data over time, you also need to append each weekly file digest to the existing, now very large data file. In order to forestall any issues, you also need to create a backup of that data file before adding anything new, and send a copy of that back up file to your cloud storage account. Once the new data has been appended, you need to run software against the file to ensure the integrity of the data.
+
+Write some pseudocode of how you might automate this process.
+
+-------------------
 
 #### Learning to program
 
