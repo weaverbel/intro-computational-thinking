@@ -7,11 +7,12 @@ When breaking problems down, **pseudocode** is a useful tool which can be used r
 
 #### Example
 
-Suppose we loved the book *Little Women*, but we wonder now whether Jo got a disproportionate share of the novel's action. We could flick through the book again to check (which would be very slow), or we could run a short piece of code to count the number of times each girl's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code to be sure we have covered all the things we will need to do. 
+Suppose we loved the book *Little Women*, but we wonder now whether one the four girl characters, Jo, got a disproportionate share of the novel's action. We could flick through the book again to check (which would be very slow), or we could run a short piece of code to count the number of times each girl's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code to be sure we have covered all the things we will need to do. 
 
 {% include figure.html img="pseudocode.png" alt="Pseudocode steps" caption="Pseudocode steps" width="65%" %}
 
 - The text only version of *Little Women* is the file the code will process.   
+- A `.txt` file is important for this kind of activity, as all the 'smart' formatting (e.g. curly quote marks, hyphens converted to `em` and `en` dashes) that would appear within a `.doc` file is stripped out when saving a `.doc` file as a `.txt` file. 
 - The four girls' names, Amy, Beth, Jo and Meg, are the values the program will look for and count.
   
 ---------
