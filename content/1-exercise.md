@@ -3,13 +3,13 @@ title: Exercise
 nav: One
 ---
 
-In this exercise, we will see how computational thinking can help us add up all the numbers between 1 and 200 in our heads, i.e. `1 + 2 + 3 + 4` and so on. We should be able to do this in less than a minute. 
+In this exercise, we will see how computational thinking can be used to add up all the numbers between 1 and 200 in our heads, i.e. `1 + 2 + 3 + 4` and so on. We should be able to do this in less than a minute. 
 
 Seems impossible?
 
 It's not.
 
-Using the first computational thinking step - *Decomposition* - we break the problem up into smaller pieces. Rather than trying to add the numbers up sequentially, which would be challenging to do in one's head, let's approach the task in a different way.
+Using the first computational thinking step - *Decomposition* - we break the problem up into smaller pieces. Rather than trying to add the numbers up sequentially, which would be challenging for many people to do in their heads, let's approach the task in a different way.
 
 ### Decomposition
 
@@ -17,15 +17,15 @@ Let's begin at each end of the 1-200 sequence by adding up the first and last nu
 
 What is `200 + 1`? The answer is `201`.
 
-Let's add up the second and the second last numbers, i.e. `199 + 2`. The answer is `201`.
+Let's now add up the second and the second last numbers, i.e. `199 + 2`. The answer is `201`.
 
-Let's add up the third and the third last numbers, i.e. `198 + 3`. The answer is `201`.
+Let's now add up the third and the third last numbers, i.e. `198 + 3`. The answer is `201`.
 
 -------
 
 ### Pattern recognition
 
-Using our second step - *Pattern recognition* - we can now spot a pattern, i.e. that each pair of numbers appears to add up to `201`.
+Using our second step - *Pattern recognition* - we should be able to spot a clear pattern, i.e. that each pair of numbers appears to add up to `201`.
 
 {% include figure.html img="word-count.png" alt="Spotting a pattern" caption="Spotting a pattern" width="25%" %}
 
@@ -49,7 +49,7 @@ Now, what about about our fourth step, *Abstraction*?
 
 ### Abstraction 
 
-*Abstraction* will enable us to repeat the process we used to add up the numbers between 1 and 200 to add up a *different* set of numbers, e.g., 1-500.
+*Abstraction* will enable us to generalise from that experience, i.e. repeat the process we used to add up all the numbers between 1 and 200 to add up a *different* set of numbers, e.g., 1-500.
 
 The *Algorithm* will be 
 
