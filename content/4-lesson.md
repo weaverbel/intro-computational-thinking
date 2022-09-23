@@ -7,27 +7,28 @@ When breaking coding problems down, **pseudocode** is a useful tool to use, rega
 
 #### Example
 
-Suppose we are fans of the *Lord of the Rings* novels, but we wonder how much the female character of Galadriel featured in the story compared to the male characters Frodo, Gandalf, Aragorn, Legolas and Boromir. We could flick through *The Fellowship of the Ring* again to check (which would be painfully slow), or we could run a short piece of code to count the number of times each character's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code to be sure we have covered all the things we will need to do. 
+Suppose we are fans of the *Lord of the Rings* novels, but we wonder how much the female character of Galadriel featured in the story compared to the male characters Frodo, Gandalf, Aragorn, Legolas and Boromir. We could flick through, say, *The Fellowship of the Ring* to check (which would be painfully slow), or we could run a short piece of code to count the number of times each character's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code to be sure we have covered all the things we will need to do. 
 
 {% include figure.html img="pseudo-example.png" alt="Pseudocode steps" caption="Pseudocode steps" width="65%" %}
 
-- The [text only version of *The Fellowship of the Ring*](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text) is the file the code will process.   
-- A `.txt` file is important for this kind of activity, as all the "smart" formatting (i.e. curly quote marks, hyphens converted to `em` and `en` dashes) that appear within a `.doc` file is stripped out when saving a `.doc` file as a `.txt` file. 
-- The characters' names, Galadriel, Frodo, Gandalf, Aragorn, Legolas and Boromir are the values the program will look for and count.
+*Notes*
 
+- The [text only version](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text) of *The Fellowship of the Ring* is the file the code will process.   
+- The characters' names, Galadriel, Frodo, Gandalf, Aragorn, Legolas and Boromir are the values the program will look for and count.
+- A `.txt` file is important for this kind of activity, as all the "smart" formatting (i.e. curly quote marks, hyphens converted to `em` and `en` dashes) that appear within a `.doc` file is stripped out when saving a `.doc` file as a `.txt` file.
 ------
 
-*Spoiler alert* - Galadriel gets only 35 mentions by name compared to Frodo's 944.
+*Spoiler alert* - Galadriel gets only **35** mentions by name compared to Frodo's **944**.
   
 ---------
 
-The code that will be used to do this job is an example of a **loop**. Loops allow us to execute the same command over and over again until a certain condition is met. 
+The code that will be used to do this job is an example of a **loop**. Loops allow us to execute the same command over and over again until a certain pre-set condition has been met. In this case, the condition is to have counted all the appearances of each name in a list.
 
-In the example above, the program will search all the way through the text of *The Fellowship of the Ring* adding up all the appearances of the first value in the list (Galadriel). Then it will go through the text again to do the count for the second value (Frodo). The same process will then be done for the other characters respectively, and then the program will report its findings for each value. It will then stop because the list of names has been exhausted, i.e. the condition has been met. 
+In the example above, the program will search all the way through the text of [*The Fellowship of the Ring*](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text) adding up all the appearances of the first value in the list (`Galadriel`). Then it will go through the text again to do the count for the second value (`Frodo`). The same process will then be done for all the other characters respectively, and then the program will report its findings for each value. It will then stop running because the list of names has been exhausted, i.e. the condition has been met. 
 
-The name values can also be called *variables*, because the value will vary each time the loop runs through the text.
+The name values can also be called *variables*, because the value will vary each time the loop runs through the text. Variables are an important part of `abstraction`.
 
-The same piece of code could be re-used for any counting exercise by changing the list variables and the input source.
+The same piece of code could be re-used for any word counting exercise by changing the list variables and the input source. That would be another example of `abstraction`.
 
 {% include figure.html img="loop-diagram.png" alt="How loops work" caption="Loops in programming" width="65%" %}
 
