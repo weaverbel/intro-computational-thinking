@@ -16,6 +16,7 @@ Suppose we are fans of the *Lord of the Rings* novels, but we wonder how much th
 - The [text only version](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text) of *The Fellowship of the Ring* is the file the code will process.   
 - The characters' names, Galadriel, Frodo, Gandalf, Aragorn, Legolas and Boromir are the values the program will look for and count.
 - A `.txt` file is important for this kind of activity, as all the "smart" formatting (i.e. curly quote marks, hyphens converted to `em` and `en` dashes) that appear within a `.doc` file is stripped out when saving a `.doc` file as a `.txt` file.
+
 ------
 
 *Spoiler alert* - Galadriel gets only **35** mentions by name compared to Frodo's **944**.
