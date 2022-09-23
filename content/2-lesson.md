@@ -11,7 +11,7 @@ While thinking computationally is a prerequisite for programming, programming an
 
 ------
 
-Computers are precise, and computing instructions must be clear and unambiguous, as the computer cannot think - it can only follow orders. Unlike humans, computers do not get bored or distracted, they process things very quickly, and will carry out the same tedious, repetitive tasks over and over again without making mistakes.
+Computers are precise, and computing instructions must be clear and unambiguous, as the computer cannot think - it can only follow orders. Unlike humans, computers do not get bored or distracted, they process data very quickly, and will carry out the same tedious, repetitive tasks over and over again without making mistakes.
 
 {% include figure.html img="proc-diagram.png" alt="Computational thinking at work" caption="The computational thinking process in action" width="100%" %}
 
@@ -23,9 +23,9 @@ Subconsciously, we practise computational thinking every day of our lives. As Je
 
 Every time we need to plan to do something, we use some of the steps of computational thinking such as problem breakdown, pattern recognition and developing algorithms. 
 
-- Project managers use computational thinking to plan complex activities. 
+- Project managers use computational thinking to plan complex activities such as building a tunnel or revamping a playground. 
 
-- Epidemiologists use it to identify patterns to predict how a disease outbreak will spread. 
+- Epidemiologists use it to identify patterns that help predict how a disease outbreak will spread. 
 
 - Parents use it to juggle work, parenting, community responsibilities and housework.
 
