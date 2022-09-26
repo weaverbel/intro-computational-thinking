@@ -3,9 +3,9 @@ title: Pseudocode
 nav: Four
 ---
 
-When breaking coding problems down, **pseudocode** is a useful tool to use, regardless of what programming language will be chosen to automate your process. Pseudocode documents each step of a process so that you will already have your steps arranged in a logical order before you start to code. Pseudocode is a good way to run your ideas past people who may not be programmers. 
+When breaking coding problems down, **pseudocode** is a useful tool to use, regardless of what programming language will eventually be chosen to automate your process. Pseudocode documents each step of a process so that you will already have your steps arranged in a logical order before you start to code. Pseudocode is a good way to inform software developers of your needs or to run your ideas past people who may not be programmers. 
 
-#### Example
+#### Pseudocode example
 
 Suppose we are fans of the *Lord of the Rings* novels, but we wonder how much the female character of Galadriel featured in the story compared to the male characters Frodo, Gandalf, Aragorn, Legolas and Boromir. We could flick through, say, *The Fellowship of the Ring* to check (which would be painfully slow), or we could run a short piece of code to count the number of times each character's name is mentioned throughout the story. We could document those steps in pseudocode before writing any code to be sure we have covered all the things we will need to do. 
 
