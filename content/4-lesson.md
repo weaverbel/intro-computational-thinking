@@ -27,13 +27,13 @@ Suppose we are fans of the *Lord of the Rings* novels, but we wonder how much th
 
 The code that will be used to do this job is an example of a **loop**. Loops allow us to execute the same command over and over again until a certain pre-set condition has been met. In this case, the condition is to have counted all the appearances of each name on a designated list.
 
+{% include figure.html img="loop-diagram.png" alt="How loops work" caption="Loops in programming" width="65%" %}
+
 In the example above, the program will search all the way through the text of [*The Fellowship of the Ring*](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text), adding up all the appearances of the first value in the list (`Galadriel`). Then it will go through the text again to do the count for the second value (`Frodo`). The same process will then be done for all the other characters respectively, and then the program will report its findings for each value. It will then stop running because the list of names has been exhausted, i.e. the condition has been met. 
 
 The name values can also be called *variables*, because the value will vary each time the loop runs through the text. Variables are an important part of `abstraction`.
 
 The same piece of code could be re-used for any word counting exercise by changing the list variables and the input source. That would be another example of `abstraction`.
-
-{% include figure.html img="loop-diagram.png" alt="How loops work" caption="Loops in programming" width="65%" %}
 
 ---------
 
