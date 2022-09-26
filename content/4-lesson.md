@@ -3,7 +3,7 @@ title: Pseudocode
 nav: Four
 ---
 
-When breaking coding problems down, **pseudocode** is a useful tool to use, regardless of what programming language will be chosen to automate your process. Pseudocode documents each step of a process so that when you begin to code, you will already have your steps arranged in a logical order. Pseudocode also provides a sense check if you want to first run your plans past people who may not be programmers. 
+When breaking coding problems down, **pseudocode** is a useful tool to use, regardless of what programming language will be chosen to automate your process. Pseudocode documents each step of a process so that you will already have your steps arranged in a logical order before you start to code. Pseudocode is a good way to run your ideas past people who may not be programmers. 
 
 #### Example
 
@@ -23,9 +23,11 @@ Suppose we are fans of the *Lord of the Rings* novels, but we wonder how much th
   
 ---------
 
-The code that will be used to do this job is an example of a **loop**. Loops allow us to execute the same command over and over again until a certain pre-set condition has been met. In this case, the condition is to have counted all the appearances of each name in a list.
+#### Loops
 
-In the example above, the program will search all the way through the text of [*The Fellowship of the Ring*](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text) adding up all the appearances of the first value in the list (`Galadriel`). Then it will go through the text again to do the count for the second value (`Frodo`). The same process will then be done for all the other characters respectively, and then the program will report its findings for each value. It will then stop running because the list of names has been exhausted, i.e. the condition has been met. 
+The code that will be used to do this job is an example of a **loop**. Loops allow us to execute the same command over and over again until a certain pre-set condition has been met. In this case, the condition is to have counted all the appearances of each name on a designated list.
+
+In the example above, the program will search all the way through the text of [*The Fellowship of the Ring*](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text), adding up all the appearances of the first value in the list (`Galadriel`). Then it will go through the text again to do the count for the second value (`Frodo`). The same process will then be done for all the other characters respectively, and then the program will report its findings for each value. It will then stop running because the list of names has been exhausted, i.e. the condition has been met. 
 
 The name values can also be called *variables*, because the value will vary each time the loop runs through the text. Variables are an important part of `abstraction`.
 
@@ -65,6 +67,14 @@ Write some pseudocode of how you might automate this process.
 
 -------------------
 
+#### But first, do no harm ...
+
+The automation of bureaucratic and administrative operations is speeding up data capture and service provision, *"enabling more-than-human speeds of sorting and analysis. The potential drawback is that machines have no understanding of what they are doing – and sometimes humans do not either,"* says Professor Mark Andrejevic FAHA in this article, [Robodebt and the Dangers of Datafication: Fast Machines and Fallible Humans](https://mailchi.mp/humanities.org.au/5-minute-friday-read-mark-andrejevics-robodebt-and-the-dangers-of-datafication), which warns of the dangers of too much autonomous automation. While automation brings many benefits, it can also render decisions and analysis opaque and overly rigid. The famous phrase *'Computer says no'* from the TV show *Little Britain* is a perfect example of this kind of intransigent alibi.
+
+Use automation, but use it wisely, and ethically, and with lashings of human oversight. 
+
+---------
+
 #### Learning to program
 
 This lesson should help you prepare to learn to code by understanding the process that coders use to break complex problems down into programmable parts. 
@@ -72,14 +82,6 @@ This lesson should help you prepare to learn to code by understanding the proces
 Links to sites that teach coding and other resources on computational thinking are listed in the following section. 
 
 --------------
-
-#### First, do no harm 
-
-The automation of bureaucratic and administrative operations is speeding up data capture and service provision, *"enabling more-than-human speeds of sorting and analysis. The potential drawback is that machines have no understanding of what they are doing – and sometimes humans do not either,"* says Professor Mark Andrejevic FAHA in this article, [Robodebt and the Dangers of Datafication: Fast Machines and Fallible Humans](https://mailchi.mp/humanities.org.au/5-minute-friday-read-mark-andrejevics-robodebt-and-the-dangers-of-datafication), which warns of the dangers of too much autonomous automation. While automation brings many benefits, it can also render decisions and analysis opaque and overly rigid. The famous phrase *'Computer says no'* from the TV show *Little Britain* is a perfect example of this kind of intransigent alibi.
-
-Use automation, but use it wisely, and ethically, and with lashings of human oversight. 
-
----------
 
 ### For later
 
