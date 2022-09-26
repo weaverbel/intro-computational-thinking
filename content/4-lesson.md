@@ -69,9 +69,11 @@ Write some pseudocode of how you might automate this process.
 
 #### But first, do no harm ...
 
-The automation of bureaucratic and administrative operations is speeding up data capture and service provision, *"enabling more-than-human speeds of sorting and analysis. The potential drawback is that machines have no understanding of what they are doing – and sometimes humans do not either,"* says Professor Mark Andrejevic FAHA in this article, [Robodebt and the Dangers of Datafication: Fast Machines and Fallible Humans](https://mailchi.mp/humanities.org.au/5-minute-friday-read-mark-andrejevics-robodebt-and-the-dangers-of-datafication), which warns of the dangers of too much autonomous automation. While automation brings many benefits, it can also render decisions and analysis opaque and overly rigid. The famous phrase *'Computer says no'* from the TV show *Little Britain* is a perfect example of this kind of intransigent alibi.
+The automation of bureaucratic and administrative operations is speeding up data capture and service provision, *"enabling more-than-human speeds of sorting and analysis. The potential drawback is that machines have no understanding of what they are doing – and sometimes humans do not either,"* says Professor Mark Andrejevic FAHA in this article, [Robodebt and the Dangers of Datafication: Fast Machines and Fallible Humans](https://mailchi.mp/humanities.org.au/5-minute-friday-read-mark-andrejevics-robodebt-and-the-dangers-of-datafication), which warns of the dangers of **too much** autonomous automation. 
 
-Use automation, but use it wisely, and ethically, and with lashings of human oversight. 
+While automation brings many benefits, it can also render decisions and analysis opaque and overly rigid. The famous phrase *'Computer says no'* from the TV show *Little Britain* is a perfect example of this kind of intransigence. Experiences of this kind will frustrate users.
+
+Use automation, but use it wisely, and ethically, and always with lashings of human oversight. 
 
 ---------
 
