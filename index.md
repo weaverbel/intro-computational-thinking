@@ -5,7 +5,7 @@ layout: default
 
 # Introducing Computational Thinking
 
-{% include figure.html img="stickies.jpg" alt="Sticky notes on a wall"  width="65%" %}
+{% include figure.html img="postits.jpg" alt="Sticky notes on a wall"  width="65%" %}
 
 #### Topic and aims
 
@@ -30,7 +30,11 @@ No prior knowledge is assumed. Use the [glossary](content/4-glossary.md) to fami
 
 ------
 
-*Photo by [Alex Lion](https://unsplash.com/es/@alexlionco) on [Unsplash](https://unsplash.com/).*
+*Photo by [Patrick Perkins]([https://unsplash.com/es/@alexlionco](https://unsplash.com/@patrickperkins)) on [Unsplash](https://unsplash.com/).*
+
+
+
+
 
 -------
 
