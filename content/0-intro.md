@@ -52,9 +52,7 @@ Wing believes that computational thinking is just as important a skill for schoo
 
 #### But first, do no harm ...
 
-The automation of bureaucratic and administrative operations certainly speeds up data capture and service provision, *"enabling more-than-human speeds of sorting and analysis. The potential drawback is that machines have no understanding of what they are doing – and sometimes humans do not either,"* says Professor Mark Andrejevic FAHA in this article, [Robodebt and the Dangers of Datafication: Fast Machines and Fallible Humans](https://mailchi.mp/humanities.org.au/5-minute-friday-read-mark-andrejevics-robodebt-and-the-dangers-of-datafication), which warns of the dangers of **too much** autonomous automation. 
-
-While automation brings many benefits, it can also render decisions and analysis opaque and overly rigid. The famous phrase *'Computer says no'* from the TV show *Little Britain* is a perfect example of this kind of intransigence. Experiences of this kind will frustrate users.
+While automation brings many benefits, such as lightning-fast data capture and analysis, it can also render decisions and analysis opaque and overly rigid. The famous phrase *'Computer says no'* from the TV show *Little Britain* is a perfect example of this kind of intransigence. Experiences of this kind will frustrate users.
 
 Algorithms have also been criticised for bias. As Karan Praharaj [says](https://towardsdatascience.com/how-are-algorithms-biased-8449406aaa83): *"Algorithms do what they’re taught. Unfortunately, some are inadvertently taught prejudices and unethical biases by societal patterns hidden in the data ... When these algorithms do the job of amplifying racial, social and gender inequality, instead of alleviating it; it becomes necessary to take stock of the ethical ramifications and potential malevolence of the technology."* 
 
