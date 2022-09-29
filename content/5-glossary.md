@@ -5,7 +5,7 @@ nav: Glossary
 
 | **Term** | **Meaning** |
 | :--- | :--- |
-| **Abstraction** | Reducing a problem's complexity by focusing solely on the most important parts is called abstraction. For example, a model is an abstract representation of a real system, and models can be used for testing and planning in a way that real world systems cannot. The use of variables in algebra (e.g., *`x=y/2`*) or in computer programming is another example of abstraction. A map a friend might draw to provide directions to his home is another example of abstraction. Such a map would only focus on the important details. |
+| **Abstraction** | Abstractions involves reducing a problem's complexity by focusing solely on the most important details. For example, a model is an abstract representation of a real system. The use of variables in algebra or computer programming is another example. Abstraction can also be called generalising. |
 | &nbsp; | &nbsp; |
 | **Algorithm** | An algorithm is a series of steps that must be followed in a specific order to solve a problem. When you plan a route home from work or cook a recipe, you are executing an algorithm. Providing a solution to a problem in the form of an algorithm makes a process repeatable and reproducible by others. |
 | &nbsp; | &nbsp; |
@@ -25,7 +25,7 @@ nav: Glossary
 | &nbsp; | &nbsp; |
 | **Value** | In programming, a value is an entity that can be manipulated by a program. It is usually a number (a whole integer, e.g. 10 or a floating point number, e.g. 5.126), a single character, or a string of characters.  |
 | &nbsp; | &nbsp; |
-| **Variable** | In programming, a variable is a kind of 'container' for a value or a range of values that may change as a program runs. |
+| **Variable** | In programming, a variable is a kind of 'container' for a value or a range of values that are swapped in and out as a program runs. |
 | &nbsp; | &nbsp; |
 | **Working with data** | Working with data frequently involves computational thinking. Collecting data, analysing data, and visualising data can all help you break a problem down. |
 
