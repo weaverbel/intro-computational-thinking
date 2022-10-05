@@ -27,5 +27,6 @@ nav: Glossary
 | &nbsp; | &nbsp; |
 | **Variable** | In programming, a variable is a kind of 'container' for a value or a range of values that are swapped in and out as a program runs. |
 | &nbsp; | &nbsp; |
+| **Workflow** | A workflow is a series of sequential steps to accomplish a specific task. |
+| &nbsp; | &nbsp; |
 | **Working with data** | Working with data frequently involves computational thinking. Collecting data, analysing data, and visualising data can all help you break a problem down. |
-
