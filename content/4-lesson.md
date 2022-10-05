@@ -3,7 +3,9 @@ title: Pseudocode
 nav: Four
 ---
 
-When breaking coding problems down, **pseudocode** is a useful tool to use, regardless of what programming language will eventually be chosen to automate your process. Pseudocode documents each step of a process so that you will already have your steps arranged in a logical order before you start to code. Pseudocode is a good way to inform software developers of your needs or to run your ideas past people who may not be programmers. 
+When breaking coding problems down, **pseudocode** is a useful tool to use, regardless of what programming language will eventually be used to automate your process. Pseudocode documents each step of a process so your steps are arranged in a logical order before you start to code. 
+
+Pseudocode is also a good way to explain your needs to software developers or to run your ideas past people who may not be programmers. 
 
 #### Pseudocode example
 
@@ -15,7 +17,7 @@ Suppose we are fans of the *Lord of the Rings* novels, but we wonder how much th
 
 - The [text only version](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text) of *The Fellowship of the Ring* is the file the code will process.   
 - The characters' names, Galadriel, Frodo, Gandalf, Aragorn, Legolas and Boromir are the values the program will look for and count.
-- A `.txt` file is important for this kind of activity, as all the "smart" formatting (i.e. curly quote marks, hyphens converted to `em` and `en` dashes) that appear within a `.doc` file is stripped out when saving a `.doc` file as a `.txt` file.
+- A `.txt` file is important for this kind of activity, as all the "smart" formatting (i.e. curly quote marks, hyphens converted to `em` and `en` dashes) that appear within a `.doc` or `.docx` file is stripped out when saving a `.doc` or `.docx` file as a `.txt` file.
 
 ------
 
@@ -51,15 +53,15 @@ Write some pseudocode of how you might automate this process.
 
 #### Practice 2b. Tidying up more carefully
 
-In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we didn't want to remove because they were mislabelled or were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again. 
+In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we should have kept either because they were mislabelled or they were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again. 
 
-One way to do that is to check we have coded the job correctly *before* we finally execute the automation. Therefore we need to first run a step that mimics what would happen if we executed the script on the files, perhaps by substituting printing the filenames to be moved or deleted to the screen or to a file rather than *actually* deleting or moving them at this stage. That way we can check we are working on the correct files and only run the final automation workflow once we are sure we have everything right.
+One way to do that is to check we have coded the workflow correctly *before* we finally execute the automation. Therefore we could introduce a step that mimics what would happen if we executed the script on the files, perhaps by printing the filenames we want to move or delete to the screen (or to a file) rather than *actually* deleting or moving them. That way we can check we are working on the correct files and only execute the final move workflow once we are sure we have everything right.
 
 Write some pseudocode for that step of the process.
 
 #### Practice 3. Managing incoming data
 
-Suppose you have a number of acoustic listening devices set up in the bush. Every day, you receive an email from each device with a data file recording that day's activity. In order to analyse the data from the devices, all the separate daily data files need to be combined weekly into a single file. It is important that each device ID is listed within a column in the combined data file to identify the different locations. 
+Suppose you have a number of acoustic listening devices set up in the bush. Every day, you receive an email from each device with an attached data file recording that day's activity. In order to analyse the data from the devices, all the separate daily data files need to be combined weekly into a single file. It is important that each device ID is listed within a column in the combined data file to identify all the different locations. 
 
 In order to analyse the data over time, you need to append the weekly file digest to the existing, now very large, main data file. Before adding anything new, and in order to safeguard the integrity of the data, you need to create a backup of that main data file and send a copy of that backup file to your cloud storage account for safekeeping. Once the new data has been appended, you need to rename the new main data file with today's date as part of the file name, and run software against the file to ensure the integrity of the data, e.g., to check that no data is missing (which might indicate a malfunctioning device).
 
