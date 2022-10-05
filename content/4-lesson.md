@@ -5,7 +5,7 @@ nav: Four
 
 When breaking coding problems down, **pseudocode** is a useful tool, regardless of programming language. Pseudocode lists each step of a process so your steps are arranged in a logical order before you code. 
 
-Pseudocode is also a good way to explain your needs to software developers or to run your ideas past people who may not be programmers. 
+Pseudocode is a good way to explain your needs to software developers or to run your ideas past people who may not be programmers. 
 
 #### Pseudocode example
 
@@ -18,6 +18,7 @@ Suppose we are fans of the *Lord of the Rings* novels, but we wonder how much th
 - The [text only version](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text) of *The Fellowship of the Ring* is the file the code will process.   
 - The characters' names, Galadriel, Frodo, Gandalf, Aragorn, Legolas and Boromir are the values the program will look for and count.
 - A `.txt` file is important for this kind of activity, as all the "smart" formatting (i.e. curly quote marks, hyphens converted to `em` and `en` dashes) that appear within a `.doc` or `.docx` file is stripped out when saving a `.doc` or `.docx` file as a `.txt` file.
+- We could re-use the code to run a similar operation on [*The Two Towers*](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text?select=02+-+The+Two+Towers.txt) and [*The Return Of The King*](https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text?select=03+-+The+Return+Of+The+King.txt), or we could adapt the code even further for any name or word frequency question we want to automate.
 
 ------
 
