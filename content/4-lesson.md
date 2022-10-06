@@ -3,9 +3,9 @@ title: Pseudocode
 nav: Four
 ---
 
-When breaking coding problems down, **pseudocode** is a useful tool, regardless of programming language. Pseudocode lists each step of a process so your steps are arranged in a logical order before you code. 
+Regardless of programming language, **pseudocode** is a useful tool to break coding problems down. Pseudocode helps you list each step of a planned process so your steps are in a logical order before you code. 
 
-Pseudocode is a good way to explain your needs to software developers or to run your ideas past people who may not be programmers. 
+Pseudocode is also a good way to explain your needs to software developers or to run your ideas past people who may not be programmers. 
 
 #### Pseudocode example
 
