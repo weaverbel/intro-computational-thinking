@@ -70,6 +70,10 @@ Write some pseudocode of how you might automate this process.
 
 -------------------
 
+Some potential solutions to these practice coding exercises can be found on the [Solutions](/content/5-solutions.html) page.
+
+---------------------------------
+
 #### Learning to program
 
 This lesson should help you prepare to learn to code by understanding the process that coders use to break complex problems down into programmable parts. 
