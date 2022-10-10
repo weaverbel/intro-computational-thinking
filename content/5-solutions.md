@@ -11,7 +11,7 @@ In a folder, we have 250 image files for which we want to create backup copies b
 
 This is a perfect task for a loop, as the task is simple and repetitive.
 
-{% include figure.html img="loop-pseudocode.png" alt="Steps in the loop" caption="Steps in the loop" width="70%" %}
+{% include figure.html img="pseudo-loop.png" alt="Steps in the loop" caption="Steps in the copying loop" width="70%" %}
 
 ------------
 
@@ -20,7 +20,7 @@ This is a perfect task for a loop, as the task is simple and repetitive.
 `for filename in "*.jpg" "*.tif" "*.png"`     
 &nbsp;&nbsp;&nbsp;&nbsp; `do`    
 &nbsp;&nbsp;&nbsp;&nbsp; `cp $filename backup-$filename`    
-&nbsp;&nbsp;&nbsp;&nbsp;`echo $filename backup-$filename`   
+&nbsp;&nbsp;&nbsp;&nbsp; `echo $filename backup-$filename`   
 `done`
 
 -------
