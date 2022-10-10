@@ -13,19 +13,17 @@ This is a perfect task for a loop, as the task is simple and repetitive.
 
 {% include figure.html img="loop-pseudocode.png" alt="Steps in the loop" caption="Steps in the loop" width="70%" %}
 
+------------
+
 ##### Example code in the Unix shell
 
-`for filename in "*.jpg" "*.tif" "*.png"`
-
+`for filename in "*.jpg" "*.tif" "*.png"`     
 &nbsp;&nbsp;&nbsp;&nbsp; `do`    
-
-&nbsp;&nbsp;&nbsp;&nbsp; `cp $filename backup-$filename`     
-   
-&nbsp;&nbsp;&nbsp;&nbsp;`echo $filename backup-$filename`  
-   
+&nbsp;&nbsp;&nbsp;&nbsp; `cp $filename backup-$filename`    
+&nbsp;&nbsp;&nbsp;&nbsp;`echo $filename backup-$filename`   
 `done`
 
-{% include figure.html img="loop-shell.png" alt="Loop as it would be written in the Unix shell" caption="Coding a loop in the Unix shell" width="80%" %}
+-------
 
 *Notes*
 
@@ -34,6 +32,10 @@ In the code example above, the loop will run through the folder creating back up
 Then the loop will restart and repeat the process for all the files with the file extension `.tif`, again printing the original filenames and the filenames of the new files to the screen. 
 
 Then the loop will restart and run through the folder a third time, creating back up copies of all the files with the file extension `.png`, again printing the original filenames and the filenames of the new files to the screen. The loop will then stop.
+
+{% include figure.html img="loop-shell.png" alt="Loop as it would be written in the Unix shell" caption="Coding a loop in the Unix shell" width="90%" %} 
+
+-----------
 
 #### Practice 2a. Tidying up
 
