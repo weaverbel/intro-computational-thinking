@@ -19,6 +19,8 @@ This is a perfect task for a loop, as the tasks is simple and repetitive.
 4. Create a new copy of each existing image file with a file extension of `*.png` under a new filename that includes the word `backup`.
 5. Record each individual file creation as the loop runs so you can check that the loop is working as planned, and also to create a list of which files were copied for later checking. 
 
+{% include figure.html img="loop-pseudocode.png" alt="Steps in the loop" caption="Steps in the loop" width="60%" %}
+
 ##### Example code in the Unix shell
 
 `for filename in "*.jpg" "*.tif" "*.png"`
@@ -30,6 +32,8 @@ This is a perfect task for a loop, as the tasks is simple and repetitive.
 &nbsp;&nbsp;&nbsp;&nbsp;`echo $filename backup-$filename`  
    
 `done`
+
+{% include figure.html img="loop-shell.png" alt="Loop in shell code" caption="Coding a loop in the Unix shell" width="60%" %}
 
 *Notes*
 
