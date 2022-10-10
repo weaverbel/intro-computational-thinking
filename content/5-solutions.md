@@ -31,7 +31,9 @@ In the code example above, the loop will run through the folder creating back up
 
 Then the loop will restart and repeat the process for all the files with the file extension `.tif`, again printing the original filenames and the filenames of the new files to the screen. 
 
-Then the loop will restart and run through the folder a third time, creating back up copies of all the files with the file extension `.png`, again printing the original filenames and the filenames of the new files to the screen. The loop will then stop.
+Then the loop will restart and run through the folder a third time, creating back up copies of all the files with the file extension `.png`, again printing the original filenames and the filenames of the new files to the screen. 
+
+The loop will then stop, as there are no more variables to work on.
 
 {% include figure.html img="loop-shell.png" alt="Loop as it would be written in the Unix shell" caption="Coding a loop in the Unix shell" width="90%" %} 
 
@@ -41,6 +43,8 @@ Then the loop will restart and run through the folder a third time, creating bac
 
 We have a large folder of files left over from a project that is now finished. The files are all sitting in the one folder which makes it hard to navigate. We want to archive the project and its files, but in the process, we want to create folders by file type, e.g., .pdf, .jpg, .doc, so that anyone wanting to access those particular file types can do so easily. We also want to delete files that have no file extensions. New folders will need to be created and the different files moved into them by file type.
 
+
+{% include figure.html img="move-pseudocode.png" alt="Steps in the moving scenario" caption="Steps in the moving files workflow" width="80%" %} 
 
 #### Practice 2b. Tidying up more carefully
 
