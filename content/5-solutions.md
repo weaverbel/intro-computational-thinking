@@ -9,17 +9,9 @@ Different people might approach these practice tasks in very different ways so t
 
 In a folder, we have 250 image files for which we want to create backup copies before we process the images for archiving. Manually creating 250 copies of files seems like a very boring thing to do, so we are going to automate the workflow to create the backup copies.
 
-This is a perfect task for a loop, as the task is fairly simple and repetitive.
+This is a perfect task for a loop, as the task is simple and repetitive.
 
-*Steps*
-
-1. Identify the filenames to be backed up. Wildcards can be used to identify the files for backup, e.g., the * character in the following expressions will stand for all files with a file extension of either `*.tif`, `*.png` or `*.jpg`.
-2. Create a new copy of each existing image file with a file extension of `*.jpg` under a new filename that includes the word `backup`.
-3. Create a new copy of each existing image file with a file extension of `*.tif` under a new filename that includes the word `backup`.
-4. Create a new copy of each existing image file with a file extension of `*.png` under a new filename that includes the word `backup`.
-5. Record each individual file creation as the loop runs so you can check that the loop is working as planned, and also to create a list of which files were copied for later checking. 
-
-{% include figure.html img="loop-pseudocode.png" alt="Steps in the loop" caption="Steps in the loop" width="60%" %}
+{% include figure.html img="loop-pseudocode.png" alt="Steps in the loop" caption="Steps in the loop" width="70%" %}
 
 ##### Example code in the Unix shell
 
@@ -33,11 +25,15 @@ This is a perfect task for a loop, as the task is fairly simple and repetitive.
    
 `done`
 
-{% include figure.html img="loop-shell.png" alt="Loop in shell code" caption="Coding a loop in the Unix shell" width="60%" %}
+{% include figure.html img="loop-shell.png" alt="Loop as it would be written in the Unix shell" caption="Coding a loop in the Unix shell" width="80%" %}
 
 *Notes*
 
-In the code example above, the loop will run through the folder creating back up copies of all the files with the file extension `.jpg`. As each file is copied, each original filename and the filename of each new file will be printed to the screen. Then the loop will restart and repeat the process for all the files with the file extension `.tif`, again printing the original filenames and the filenames of the new files to the screen. Then the loop will restart and run through the folder a third time, creating back up copies of all the files with the file extension `.png`, again printing the original filenames and the filenames of the new files to the screen. The loop will then stop.
+In the code example above, the loop will run through the folder creating back up copies of all the files with the file extension `.jpg`. As each file is copied, each original filename and the filename of each new file will be printed to the screen. 
+
+Then the loop will restart and repeat the process for all the files with the file extension `.tif`, again printing the original filenames and the filenames of the new files to the screen. 
+
+Then the loop will restart and run through the folder a third time, creating back up copies of all the files with the file extension `.png`, again printing the original filenames and the filenames of the new files to the screen. The loop will then stop.
 
 #### Practice 2a. Tidying up
 
