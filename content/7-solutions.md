@@ -16,7 +16,8 @@ This is a perfect task for a loop, as the tasks is simple and repetitive.
 1. Identify the filenames to be backed up. Wildcards can be used to identify the files for backup, e.g., the * character in the following expressions will stand for all files with a file extension of either `*.tif`, `*.png` or `*.jpg`.
 2. Create a new copy of each existing image file with a file extension of `*.jpg` under a new filename that includes the word `backup`.
 3. Create a new copy of each existing image file with a file extension of `*.tif` under a new filename that includes the word `backup`.
-4. Record each individual file creation as the loop runs so you can check that the loop is working as planned, and also to create a list of which files were copied for later checking. 
+4. Create a new copy of each existing image file with a file extension of `*.png` under a new filename that includes the word `backup`.
+5. Record each individual file creation as the loop runs so you can check that the loop is working as planned, and also to create a list of which files were copied for later checking. 
 
 ##### Example code in the Unix shell
 
