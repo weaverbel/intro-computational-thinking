@@ -9,7 +9,7 @@ Different people might approach these practice tasks in very different ways so t
 
 In a folder, we have 250 image files for which we want to create backup copies before we process the images for archiving. Manually creating 250 copies of files seems like a very boring thing to do, so we are going to automate the workflow to create the backup copies.
 
-This is a perfect task for a loop, as the tasks is simple and repetitive.
+This is a perfect task for a loop, as the task is fairly simple and repetitive.
 
 *Steps*
 
