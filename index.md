@@ -28,7 +28,7 @@ A pen and paper is all you will need to complete this workshop. All the practice
 
 #### Assumed knowledge
 
-No prior knowledge is assumed. Use the [glossary](content/4-glossary.md) to familiarise yourself with the meaning of terms like `abstraction` and `algorithm`. 
+No prior knowledge is assumed. Use the [glossary](../content/4-glossary.html) to familiarise yourself with the meaning of terms like `abstraction` and `algorithm`. 
 
 ------
 
