@@ -48,7 +48,7 @@ We have a large folder of files left over from a project that is now finished. T
 1. Create a list of all the different file types.
 2. Create new folders to match all the different file types.
 3. Create a loop to work through the folder, file type by file type, moving the files to the correct folders.
-4. Once loop has exhausted the moving of all file tpes, delete remianing files.
+4. Once loop has exhausted the moving of all file types, delete remaining files.
 5. Print filenames to the screen as the loop runs to verify it is working as required.
 
 #### Practice 2b. Tidying up more carefully
