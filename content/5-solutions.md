@@ -48,7 +48,7 @@ We have a large folder of files left over from a project that is now finished. T
 1. Create a list of all the different file types.
 2. Create new folders to match all the different file types.
 3. Create a loop to work through the folder, file type by file type, moving the files to the correct folders.
-4. Once loop has exhausted the moving of all file types, delete remaining files.
+4. Once loop has exhausted the moving of all the different file types, delete all remaining files within the folder.
 5. Print filenames to the screen as the loop runs to verify it is working as required.
 
 #### Practice 2b. Tidying up more carefully
@@ -56,7 +56,7 @@ We have a large folder of files left over from a project that is now finished. T
 
 In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we should have kept either because they were mislabelled or they were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again.
 
-One way to do that is to check we have coded the workflow correctly before we finally execute the automation. Therefore we could introduce a step that mimics what would happen if we executed the script on the files, perhaps by printing the filenames we want to move or delete to the screen (or to a file) rather than actually deleting or moving them. That way we can check we are working on the correct files and only execute the final move workflow once we are sure we have everything right.
+One way to do that is to check we have coded the workflow correctly before we finally execute the automation. Therefore we could introduce a step to confirm or deny any file deletion before a file is deleted, e.g. using `rm -r -i` in the shell.
 
 Write some pseudocode for that step of the process.
 
