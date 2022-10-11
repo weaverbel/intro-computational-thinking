@@ -43,15 +43,13 @@ The loop will then stop, as there are no more variables to work on.
 
 We have a large folder of files left over from a project that is now finished. The files are all sitting in the one folder which makes it hard to navigate. We want to archive the project and its files, but in the process, we want to create folders by file type, e.g., .pdf, .jpg, .doc, so that anyone wanting to access those particular file types can do so easily. We also want to delete files that have no file extensions. New folders will need to be created and the different files moved into them by file type.
 
-
-{% include figure.html img="move-pseudocode.png" alt="Steps in the moving scenario" caption="Steps in the moving files workflow" width="65%" %} 
-
-*Steps in the process*
+*Steps in the moving process*
 
 1. Create a list of all the different file types.
-2. Create new folders to match the different file types
-3. Use a loop to work through the folder, file type by file type, moving the files to the new areas.
-4. Print filenames to the screen as the loop runs
+2. Create new folders to match all the different file types.
+3. Create a loop to work through the folder, file type by file type, moving the files to the correct folders.
+4. Once loop has exhausted the moving of all file tpes, delete remianing files.
+5. Print filenames to the screen as the loop runs to verify it is working as required.
 
 #### Practice 2b. Tidying up more carefully
 
