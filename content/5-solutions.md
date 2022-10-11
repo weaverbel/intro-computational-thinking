@@ -46,6 +46,13 @@ We have a large folder of files left over from a project that is now finished. T
 
 {% include figure.html img="move-pseudocode.png" alt="Steps in the moving scenario" caption="Steps in the moving files workflow" width="65%" %} 
 
+*Steps in the process*
+
+1. Create a list of all the different file types.
+2. Create new folders to match the different file types
+3. Use a loop to work through the folder, file type by file type, moving the files to the new areas.
+4. Print filenames to the screen as the loop runs
+
 #### Practice 2b. Tidying up more carefully
 
 
