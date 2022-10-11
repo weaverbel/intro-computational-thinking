@@ -70,7 +70,7 @@ Write some pseudocode of how you might automate this process.
 
 -------------------
 
-Some potential solutions to these practice coding exercises can be found on the [Solutions](/content/5-solutions.html) page.
+Some potential solutions to these practice coding exercises can be found on the [Solutions](../content/5-solutions.html) page.
 
 ---------------------------------
 
@@ -78,7 +78,7 @@ Some potential solutions to these practice coding exercises can be found on the 
 
 This lesson should help you prepare to learn to code by understanding the process that coders use to break complex problems down into programmable parts. 
 
-Links to sites that teach coding and other resources on computational thinking are listed in the [Resources](/content/6-resources.html) section. 
+Links to sites that teach coding and other resources on computational thinking are listed in the [Resources](../content/6-resources.html) section. 
 
 --------------
 
