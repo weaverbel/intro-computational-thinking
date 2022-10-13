@@ -63,7 +63,7 @@ In the process of doing the above, we actually made a few blunders. We accidenta
 
 One way to do that is to check we have coded the workflow correctly *before* we finally execute the automation, possibly by simply printing to screen all the relevant filenames prior to moving them - that way, it is possible to check we are working on the right files before any action is taken. 
 
-To prevent accidental deletion of files, we could introduce a step to check whether or not to delete a file, e.g. by using a command such as `rm -i *.*` in the Unix shell. The `-i` flag forces the system to ask for confirmation on whether or not to delete a file. One can answer either Y or N to the example below.
+To prevent accidental deletion of files, we could introduce a step to check whether or not to delete a file, e.g., by using the remove command `rm` in the Unix shell with an `-i` flag. The `-i` flag forces the system to ask for confirmation on whether or not to delete a file. One can answer either **Y** or **N** to the example below.
 
 {% include figure.html img="code-in-shell.png" alt="RM command in the shell" caption="Confirming a 'remove' command" width="75%" %} 
 
