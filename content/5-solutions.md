@@ -11,6 +11,8 @@ In a folder, we have 250 image files for which we want to create backup copies b
 
 This is a perfect task for a loop, as the task is simple and repetitive.
 
+#### Potential solution
+
 *Steps in the copying process* 
 
 {% include figure.html img="pseudo-loop.png" alt="Steps in the loop" caption="Steps in the copying loop" width="70%" %}
@@ -45,6 +47,8 @@ The loop will then stop, as there are no more variables to work on.
 
 We have a large folder of files left over from a project that is now finished. The files are all sitting in the one folder which makes it hard to navigate. We want to archive the project and its files, but in the process, we want to create folders by file type, e.g., .pdf, .jpg, .doc, so that anyone wanting to access those particular file types can do so easily. We also want to delete files that have no file extensions. New folders will need to be created and the different files moved into them by file type.
 
+#### Potential solution
+
 *Steps in the moving process*
 
 1. Create a list of all the different file types.
@@ -57,11 +61,12 @@ We have a large folder of files left over from a project that is now finished. T
 
 In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we should have kept either because they were mislabelled or they were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again.
 
-One way to do that is to check we have coded the workflow correctly before we finally execute the automation, possibly by printing all the relevant filenames to screen prior to moving them. 
+One way to do that is to check we have coded the workflow correctly before we finally execute the automation, possibly by simply printing to screen all the relevant filenames prior to moving them - that way, it is possible to check we are working on the right files before any action is taken. 
 
-To prevent accidental deletion of files, we could introduce a step to confirm or deny any file deletion *before* a file is deleted, e.g., by using a command such as `rm -i *.*` in the Unix shell. The `-i` flag forces the system to ask whether or not to delete a file.
+To prevent accidental deletion of files, we could introduce a step to check whether or not to delete a file, e.g. by using a command such as `rm -i *.*` in the Unix shell. The `-i` flag forces the system to ask for confirmation on whether or not to delete a file.
 
-Write some pseudocode for that step of the process.
+{% include figure.html img="code-in-shell.png" alt="RM command in the shell" caption="Confirming a 'remove' command" width="75%" %} 
+
 
 #### Practice 3. Managing incoming data
 Suppose you have a number of acoustic listening devices set up in the bush. Every day, you receive an email from each device with an attached data file recording that day's activity. In order to analyse the data from the devices, all the separate daily data files need to be combined weekly into a single file. It is important that each device ID is listed within a column in the combined data file to identify all the different locations.
