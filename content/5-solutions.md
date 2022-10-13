@@ -1,15 +1,17 @@
 ---
-title: Practice solutions
+title: Potential solutions to practice exercises
 nav: Solutions
 ---
 
-Different people might approach these practice tasks in very different ways so these solutions are suggestions only. They are offered here to provide some guidance for people who might struggle with laying out steps.
+Different people might approach these practice tasks in very different ways so these solutions are suggestions only. They are offered here to provide some guidance for people who might otherwise struggle with laying out steps.
 
 #### Practice 1. Creating backup copies of files
 
 In a folder, we have 250 image files for which we want to create backup copies before we process the images for archiving. Manually creating 250 copies of files seems like a very boring thing to do, so we are going to automate the workflow to create the backup copies.
 
 This is a perfect task for a loop, as the task is simple and repetitive.
+
+*Steps in the copying process* 
 
 {% include figure.html img="pseudo-loop.png" alt="Steps in the loop" caption="Steps in the copying loop" width="70%" %}
 
@@ -25,6 +27,8 @@ This is a perfect task for a loop, as the task is simple and repetitive.
 
 -------
 
+{% include figure.html img="loop-shell.png" alt="Loop as it would be written in the Unix shell" caption="Coding a loop in the Unix shell" width="90%" %} 
+
 *Notes*
 
 In the code example above, the loop will run through the folder creating back up copies of all the files with the file extension `.jpg`. As each file is copied, each original filename and the filename of each new file will be printed to the screen. 
@@ -34,8 +38,6 @@ Then the loop will restart and repeat the process for all the files with the fil
 Then the loop will restart and run through the folder a third time, creating back up copies of all the files with the file extension `.png`, again printing the original filenames and the filenames of the new files to the screen. 
 
 The loop will then stop, as there are no more variables to work on.
-
-{% include figure.html img="loop-shell.png" alt="Loop as it would be written in the Unix shell" caption="Coding a loop in the Unix shell" width="90%" %} 
 
 -----------
 
@@ -53,10 +55,11 @@ We have a large folder of files left over from a project that is now finished. T
 
 #### Practice 2b. Tidying up more carefully
 
-
 In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we should have kept either because they were mislabelled or they were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again.
 
-One way to do that is to check we have coded the workflow correctly before we finally execute the automation. Therefore we could introduce a step to confirm or deny any file deletion before a file is deleted, e.g. using `rm -r -i` in the shell.
+One way to do that is to check we have coded the workflow correctly before we finally execute the automation, possibly by printing all the relevant filenames to screen prior to moving them. 
+
+To prevent accidental deletion of files, we could introduce a step to confirm or deny any file deletion *before* a file is deleted, e.g., by using a command such as `rm -i *.*` in the Unix shell. The `-i` flag forces the system to ask whether or not to delete a file.
 
 Write some pseudocode for that step of the process.
 
@@ -66,3 +69,15 @@ Suppose you have a number of acoustic listening devices set up in the bush. Ever
 In order to analyse the data over time, you need to append the weekly file digest to the existing, now very large, main data file. Before adding anything new, and in order to safeguard the integrity of the data, you need to create a backup of that main data file and send a copy of that backup file to your cloud storage account for safekeeping. Once the new data has been appended, you need to rename the new main data file with today's date as part of the file name, and run software against the file to ensure the integrity of the data, e.g., to check that no data is missing (which might indicate a malfunctioning device).
 
 Write some pseudocode of how you might automate this process.
+
+*Steps in the data combination process*
+
+1. Create a new copy of the main data file with today's date as part of the file name.
+2. Move the previous version of the main data file to cloud storage.
+3. Save all the new data files individually to local storage with the device ID of each as part of the file names.
+4. Create a new weekly data file digest into which the daily digests from the different devices will be imported.
+5. Import each daily digest to that data file with a `append` command, ensuring that the device ID relatiing to each file's data is written into a separate column.
+6. Append the weekly digest to the newly renamed main data file.
+7. Verify that no data is missing. In [OpenRefine](https://openrefine.org/), using `Facet by Blank` on the relevant data fields could verify that no data is missing.
+
+------
