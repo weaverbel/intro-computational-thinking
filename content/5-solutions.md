@@ -45,7 +45,7 @@ The loop will then stop, as there are no more variables to work on.
 
 #### Practice 2a. Tidying up
 
-We have a large folder of files left over from a project that is now finished. The files are all sitting in the one folder which makes it hard to navigate. We want to archive the project and its files, but in the process, we want to create folders by file type, e.g., .pdf, .jpg, .doc, so that anyone wanting to access those particular file types can do so easily. We also want to delete files that have no file extensions. New folders will need to be created and the different files moved into them by file type.
+We have a large folder of files left over from a project that is now finished. The files are all sitting in the one folder which makes it hard to navigate. We want to archive the project and its files, but in the process, we want to create folders by file type, e.g., `.pdf`, `.jpg`, `.doc`, so that anyone wanting to access those particular file types can do so easily. We also want to delete files that have no file extensions. New folders will need to be created and the different files moved into them by file type.
 
 #### Potential solution
 
@@ -54,26 +54,25 @@ We have a large folder of files left over from a project that is now finished. T
 1. Create a list of all the different file types.
 2. Create new folders to match all the different file types.
 3. Create a loop to work through the folder, file type by file type, moving the files to the correct folders.
-4. Once loop has exhausted the moving of all the different file types, delete all remaining files within the folder.
+4. Once loop has exhausted the moving of all the different file types, delete all remaining files left within the main folder.
 5. Print filenames to the screen as the loop runs to verify it is working as required.
 
 #### Practice 2b. Tidying up more carefully
 
-In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we should have kept either because they were mislabelled or they were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again.
+In the process of doing the above, we actually made a few blunders. We accidentally deleted some files we should have kept either because they were missing a file extension. Because this automation is a complex operation that cannot be undone, we want to make sure we don't make those kinds of mistakes again.
 
-One way to do that is to check we have coded the workflow correctly before we finally execute the automation, possibly by simply printing to screen all the relevant filenames prior to moving them - that way, it is possible to check we are working on the right files before any action is taken. 
+One way to do that is to check we have coded the workflow correctly *before* we finally execute the automation, possibly by simply printing to screen all the relevant filenames prior to moving them - that way, it is possible to check we are working on the right files before any action is taken. 
 
-To prevent accidental deletion of files, we could introduce a step to check whether or not to delete a file, e.g. by using a command such as `rm -i *.*` in the Unix shell. The `-i` flag forces the system to ask for confirmation on whether or not to delete a file.
+To prevent accidental deletion of files, we could introduce a step to check whether or not to delete a file, e.g. by using a command such as `rm -i *.*` in the Unix shell. The `-i` flag forces the system to ask for confirmation on whether or not to delete a file. One can answer either Y or N to the example below.
 
 {% include figure.html img="code-in-shell.png" alt="RM command in the shell" caption="Confirming a 'remove' command" width="75%" %} 
 
 
 #### Practice 3. Managing incoming data
+
 Suppose you have a number of acoustic listening devices set up in the bush. Every day, you receive an email from each device with an attached data file recording that day's activity. In order to analyse the data from the devices, all the separate daily data files need to be combined weekly into a single file. It is important that each device ID is listed within a column in the combined data file to identify all the different locations.
 
 In order to analyse the data over time, you need to append the weekly file digest to the existing, now very large, main data file. Before adding anything new, and in order to safeguard the integrity of the data, you need to create a backup of that main data file and send a copy of that backup file to your cloud storage account for safekeeping. Once the new data has been appended, you need to rename the new main data file with today's date as part of the file name, and run software against the file to ensure the integrity of the data, e.g., to check that no data is missing (which might indicate a malfunctioning device).
-
-Write some pseudocode of how you might automate this process.
 
 *Steps in the data combination process*
 
@@ -81,8 +80,8 @@ Write some pseudocode of how you might automate this process.
 2. Move the previous version of the main data file to cloud storage.
 3. Save all the new data files individually to local storage with the device ID of each as part of the file names.
 4. Create a new weekly data file digest into which the daily digests from the different devices will be imported.
-5. Import each daily digest to that data file with a `append` command, ensuring that the device ID relatiing to each file's data is written into a separate column.
+5. Import each daily digest to that data file with an `append` command, ensuring that the device ID relating to each file's data is written into a separate column.
 6. Append the weekly digest to the newly renamed main data file.
-7. Verify that no data is missing. In [OpenRefine](https://openrefine.org/), using `Facet by Blank` on the relevant data fields could verify that no data is missing.
+7. Verify that no data is missing. In [OpenRefine](https://openrefine.org/), using `Facet by Blank` on the relevant data fields could be one way to verify that no data is missing.
 
 ------
