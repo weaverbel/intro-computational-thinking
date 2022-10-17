@@ -51,11 +51,15 @@ We have a large folder of files left over from a project that is now finished. T
 
 *Steps in the moving process*
 
-1. Create a list of all the different file types.
-2. Create new folders to match all the different file types.
-3. Create a loop to work through the folder, file type by file type, moving the files to the correct folders.
-4. Once loop has exhausted the moving of all the different file types, delete all remaining files left within the main folder.
+1. Identify the different file types in the folder.
+2. Create new folders to house the different file types.
+3. Create a series of loops to work through the folder, file type by file type, moving the files to the correct folders.
+4. Once the final loop has run, delete all remaining files left within the main folder.
 5. Print filenames to the screen as the loop runs to verify it is working as required.
+
+*Using a shell script to automate the work*
+
+The task above could be fully automated using a shell script. A shell script is a text file containing a sequence of commands for a UNIX-based operating system that allows those commands to be run in one go, rather than by entering each command one at a time. Scripts make task automation possible. The script would contain the commands to do the tasks listed above, such as folder creation, file movement using loops, file deletion and so on. The benefit of shell scripts is that the code they contain can be re-used or adapted for similar tasks.
 
 #### Practice 2b. Tidying up more carefully
 
@@ -83,5 +87,9 @@ In order to analyse the data over time, you need to append the weekly file diges
 5. Import each daily digest to that data file with an `append` command, ensuring that the device ID relating to each file's data is written into a separate column.
 6. Append the weekly digest to the newly renamed main data file.
 7. Verify that no data is missing. In [OpenRefine](https://openrefine.org/), using `Facet by Blank` on the relevant data fields could be one way to verify that no data is missing.
+
+*Using a shell script to automate the work*
+
+Again, a shell script could be used to automate this work. Given that these tasks are run weekly, it would make sense to turn this into an automated task rather than a manual one as that will not only be faster, but will reduce the opportunity for error.
 
 ------
