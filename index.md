@@ -14,7 +14,7 @@ Once you have completed this introductory workshop on computational thinking, yo
 - Identify the steps involved in computational thinking
 - Break a problem down into more manageable parts
 - Develop a series of steps (also known an `algorithm`) to solve a problem
-- Use abstraction to make the steps re-usable
+- Use abstraction so the steps can be re-used for similar problems
 
 #### Audience
 
@@ -24,7 +24,7 @@ The workshop will not teach computer programming *per se*. Instead it will cover
 
 #### Prerequisites
 
-A pen and paper is all you will need to complete this workshop. All the practice exercises can be done without a computer.
+All you will need to complete this workshop is a pen and paper. All the practice exercises can be done without a computer.
 
 #### Assumed knowledge
 
