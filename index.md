@@ -14,7 +14,7 @@ Once you have completed this introductory workshop on computational thinking, yo
 - Identify the steps involved in computational thinking
 - Break a problem down into more manageable parts
 - Develop a series of steps (also known an `algorithm`) to solve a problem
-- Generalise important detail so that algorithms can be made re-usable (this process is caled `abstraction`)
+- Generalise important detail so that algorithms can be made re-usable (this process is called `abstraction`)
 
 #### Audience
 
