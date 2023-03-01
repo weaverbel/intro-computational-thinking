@@ -35,7 +35,7 @@ This is a complex problem. As we progress through this lesson, we will learn how
 
 There are four essential components of computational thinking:
 
-- **Decomposition** – breaking a problem down into more manageable parts so that solutions can be found for each. This is also called factoring.
+- **Decomposition** – breaking a problem down into more manageable parts so that solutions can be found for each. This is also called *factoring*.
 - **Pattern recognition** – looking for similarities within a problem or with other problems so that past solutions or knowledge can be re-used 
 - **Algorithms** – developing step-by-step solutions to each part of the problem
 - **Abstraction** – generalising (abstracting) the important detail to make a solution reusable
